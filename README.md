@@ -6,4 +6,5 @@
 [循环队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Queue/CircularQueue.java)  
 
 - 栈  
-[栈](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Stack/MyStack.java)
+[栈](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Stack/MyStack.java)  
+[leetCode学习记录_有效的字符串](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Stack)
