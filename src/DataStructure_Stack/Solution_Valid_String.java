@@ -2,7 +2,10 @@ package DataStructure_Stack;
 
 import java.util.Stack;
 
-public class Solution {
+/**
+ * leetCode_有效的符号
+ */
+public class Solution_Valid_String {
 
     public static boolean isValid(String s) {
         char[] ch = s.toCharArray();
