@@ -5,9 +5,9 @@ import java.util.List;
 
 public class CircularQueue {
     private int[] dataQueue;//动态数组
-    private int p_head;
-    private int p_tail;
-    private int size;
+    private int p_head; //头指针
+    private int p_tail; //尾指针
+    private int size; //数组大小
 
 
     public CircularQueue(int k) {
@@ -23,6 +23,8 @@ public class CircularQueue {
 
     /**
      * 入队
+     * 若数组为空，则第一次添加元素时,head由-1指向0
+     *
      */
     public boolean enQueue(int x) {
         if (isFull()) {
@@ -31,7 +33,10 @@ public class CircularQueue {
         if (isEmpty()) {
             p_head = 0;
         }
-        //因为是循环队列所以 要进行取余操作
+        /**
+         * p_tail = (p_tail + 1) % size 表示 :
+         * 每当进来一个元素，尾指针就跟着+1，对size取余能够保证在循环队列中尾指针始终指向最后添加的元素的位置
+         */
         p_tail = (p_tail + 1) % size;
         dataQueue[p_tail] = x;
         return true;
@@ -53,6 +58,10 @@ public class CircularQueue {
             p_tail = -1;
             return true;
         }
+        /**
+         * p_head = (p_head + 1) % size; 表示 :
+         * 每当进来一个元素，头指针指针就跟着+1，对size取余能够保证在循环队列中头指针指针始终指向最先添加的元素的位置
+         */
         p_head = (p_head + 1) % size;
         return true;
     }
