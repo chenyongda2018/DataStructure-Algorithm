@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/SingleTon.java" afterPath="$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/SingleTon.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/LazySingleTon.java" afterPath="$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/LazySingleTon.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SingleTon.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SingleTon.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/SingleTon.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="149">
@@ -29,11 +28,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LazySingleTon.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="200">
+                <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+                <folding>
+                  <marker date="1554226181899" expanded="true" signature="137:145" ph="{...}" />
+                  <marker date="1554226181899" expanded="false" signature="187:198" ph=" { " />
+                  <marker date="1554226181899" expanded="false" signature="214:220" ph=" }" />
+                  <marker date="1554226181899" expanded="true" signature="368:420" ph="/**...*/" />
+                  <marker date="1554226181899" expanded="true" signature="544:558" ph="{...}" />
+                  <marker date="1554226181899" expanded="false" signature="603:617" ph=" { " />
+                  <marker date="1554226181899" expanded="false" signature="633:642" ph=" }" />
+                  <marker date="1554226181899" expanded="true" signature="751:873" ph="{...}" />
+                  <marker date="1554226181899" expanded="true" signature="782:800" ph="{...}" />
+                  <marker date="1554226181899" expanded="false" signature="926:940" ph=" { " />
+                  <marker date="1554226181899" expanded="false" signature="964:973" ph=" }" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LazySingleTon.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/LazySingleTon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="50">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -59,8 +83,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/LazySingleTon.java" />
         <option value="$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/SingleTon.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/LazySingleTon.java" />
       </list>
     </option>
   </component>
@@ -225,7 +249,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1554225980857" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1554226395850" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -273,7 +297,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1554225980857" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1554226395850" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -500,25 +524,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/LazySingleTon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/SingleTon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -527,6 +532,37 @@
             <element signature="e#472#473#0" expanded="true" />
             <element signature="e#511#512#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="200">
+            <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <folding>
+              <marker date="1554226181899" expanded="true" signature="137:145" ph="{...}" />
+              <marker date="1554226181899" expanded="false" signature="187:198" ph=" { " />
+              <marker date="1554226181899" expanded="false" signature="214:220" ph=" }" />
+              <marker date="1554226181899" expanded="true" signature="368:420" ph="/**...*/" />
+              <marker date="1554226181899" expanded="true" signature="544:558" ph="{...}" />
+              <marker date="1554226181899" expanded="false" signature="603:617" ph=" { " />
+              <marker date="1554226181899" expanded="false" signature="633:642" ph=" }" />
+              <marker date="1554226181899" expanded="true" signature="751:873" ph="{...}" />
+              <marker date="1554226181899" expanded="true" signature="782:800" ph="{...}" />
+              <marker date="1554226181899" expanded="false" signature="926:940" ph=" { " />
+              <marker date="1554226181899" expanded="false" signature="964:973" ph=" }" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/面试题2实现SingleTon模式/LazySingleTon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

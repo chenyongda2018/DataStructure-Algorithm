@@ -7,14 +7,19 @@ package 面试题2实现SingleTon模式;
 
 public class LazySingleTon {
     private static LazySingleTon instance = null;
+    private static Object lock = new Object();
 
     private LazySingleTon() {
 
     }
 
-    public static synchronized LazySingleTon getInstance() {
+    public static  LazySingleTon getInstance() {
         if (instance == null) {
-            instance = new LazySingleTon();
+            synchronized (lock) {
+                if (instance == null) {
+                    instance = new LazySingleTon();
+                }
+            }
         }
         return instance;
     }
