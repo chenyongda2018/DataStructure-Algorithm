@@ -21,11 +21,11 @@ public class PrintListReversingly {
         }
         Stack<ListNode> stack = new Stack<>();
         //正着遍历链表,并压入栈中,由于尾节点的下一个是空,所以循环里并没有把尾节点放到栈中
-        while (headNode.nextNode!=null) {
+        while (headNode!=null) {
             stack.push(headNode);
             headNode = headNode.nextNode;
         }
-        stack.push(headNode);//放入最后一个节点
+
 
         //遍历栈,因为是后进先出的数据结构,所以会实现倒叙打印链表
         while(stack.size()!=0) {

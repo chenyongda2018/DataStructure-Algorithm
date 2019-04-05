@@ -9,7 +9,7 @@
 ```java
 class ListNode {
 	public int val;
-    public ListNode nextNode;
+	public ListNode nextNode;
 }
 
 ```
