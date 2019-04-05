@@ -15,6 +15,9 @@
 
 ```java
 public static void replaceSpace(char[] array) {
+        if(array == null) {
+            return;
+        }
         StringBuilder stringBuilder = new StringBuilder(String.valueOf(array));
         int spaceNum = 0;
         //1,先统计字符串中空格的个数
@@ -24,16 +27,21 @@ public static void replaceSpace(char[] array) {
             }
         }
 
+        if (spaceNum == 0 ) {
+            return;
+        }
+
         int originalLength = stringBuilder.length();
         //2,设置新的长度
         stringBuilder.setLength(originalLength+spaceNum*2);
-        int p1 = originalLength-1;
-        int p2 = stringBuilder.length()-1;
-        
+        int p1 = originalLength-1;//指向原始字符串末尾的索引
+        int p2 = stringBuilder.length()-1;//指向新的字符串末尾的索引
+
         while (p1 < p2) {
             if (stringBuilder.charAt(p1) != ' ') {
-                stringBuilder.setCharAt(p2,stringBuilder.charAt(p1));
+                stringBuilder.setCharAt(p2,stringBuilder.charAt(p1));//把p1的值给p2
 
+                //两个索引向前移动
                 p1--;
                 p2--;
             } else {
