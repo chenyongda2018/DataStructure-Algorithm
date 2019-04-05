@@ -51,3 +51,10 @@ public static void replaceSpace(char[] array) {
 
 
 
+```java
+public static void main(String[] args) {
+        char[] array = "We  are  happy".toCharArray();
+        replaceSpace(array);// 'We%20%20are%20%20happy'
+    }
+```
+

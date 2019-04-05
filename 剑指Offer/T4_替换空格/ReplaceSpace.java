@@ -14,6 +14,9 @@ public class ReplaceSpace {
      * @param array
      */
     public static void replaceSpace(char[] array) {
+        if(array == null) {
+            return;
+        }
         StringBuilder stringBuilder = new StringBuilder(String.valueOf(array));
         int spaceNum = 0;
         //1,先统计字符串中空格的个数
@@ -21,6 +24,10 @@ public class ReplaceSpace {
             if (stringBuilder.charAt(i) == ' ') {
                 spaceNum ++;
             }
+        }
+
+        if (spaceNum == 0 ) {
+            return;
         }
 
         int originalLength = stringBuilder.length();
@@ -49,7 +56,7 @@ public class ReplaceSpace {
     }
 
     public static void main(String[] args) {
-        char[] array = "We are happy".toCharArray();
+        char[] array = "We  are  happy".toCharArray();
         replaceSpace(array);
     }
 }
