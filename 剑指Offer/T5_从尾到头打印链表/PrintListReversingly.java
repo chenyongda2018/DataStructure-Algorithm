@@ -1,5 +1,6 @@
 package T5_从尾到头打印链表;
 
+import java.util.List;
 import java.util.Stack;
 
 /**
@@ -14,6 +15,10 @@ class ListNode {
 
 public class PrintListReversingly {
 
+    /**
+     * 解法1:用栈
+     * @param headNode
+     */
     public static void printListReversingly(ListNode headNode) {
         //判断头指针是否为空
         if (headNode == null) {
@@ -34,6 +39,20 @@ public class PrintListReversingly {
 
     }
 
+    /**
+     * 解法2:递归
+     * @param headNode
+     */
+    public static void printListRecursive(ListNode headNode) {
+
+        if (headNode != null) {
+            if ( headNode.nextNode != null) {
+                printListRecursive(headNode.nextNode);
+            }
+            System.out.println(headNode.val);
+        }
+    }
+
     public static void main(String[] args) {
         ListNode headNode = new ListNode(); headNode.val=1;
         ListNode node2 = new ListNode(); node2.val = 2;
@@ -47,7 +66,7 @@ public class PrintListReversingly {
         node4.nextNode = node5;
         node5.nextNode = node6;
 
-        printListReversingly(headNode);
+        printListRecursive(headNode);
 
     }
 }
