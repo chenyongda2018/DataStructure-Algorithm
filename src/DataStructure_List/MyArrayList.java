@@ -1,5 +1,6 @@
 package DataStructure_List;
 
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.function.Consumer;
 
@@ -15,7 +16,6 @@ public class MyArrayList<T> implements Iterable<T> {
     private static final int DEFAULT_CAPACITY = 10;
     private int theSize;//MyArrayList的元素个数
     private T[] theList;
-
     //初始化
     public MyArrayList() {
         doClear();
@@ -137,7 +137,7 @@ public class MyArrayList<T> implements Iterable<T> {
 
         @Override
         public boolean hasNext() {
-            return current < theList.length;
+            return current < theSize;
         }
 
         @Override
