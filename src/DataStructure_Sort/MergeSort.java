@@ -1,8 +1,10 @@
 package DataStructure_Sort;
 
+import java.util.logging.Handler;
+
 public class MergeSort {
     public static void main(String[] args) {
-        int[] a = new int[]{23, 21, 154, 23, 13, 2, 3};
+        int[] a = new int[]{3,2,1,45,56,67,6,432,45,2};
         sort(a);
         for (int num : a) {
             System.out.println(num + " ");
