@@ -16,6 +16,11 @@
 [通过栈前序遍历二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Tree/Traversing_Preorder_1.java)   
 [LeetCode_1021_删除最外层括号](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E6%8B%AC%E5%8F%B7_1021/Solution.java)
 
+### 算法  
+- #### 排序  
+[归并排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/MergeSort.java)  
+[插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)  
+
 - #### 剑指Offer练习题
 [2-单例模式](https://github.com/chenyongda2018/DataStructure-Algorithm/tree/master/%E5%89%91%E6%8C%87Offer/T2_%E5%AE%9E%E7%8E%B0SingleTon%E6%A8%A1%E5%BC%8F)  
 [3-二维数组查找](https://github.com/chenyongda2018/DataStructure-Algorithm/tree/master/%E5%89%91%E6%8C%87Offer/T3_%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE)  
