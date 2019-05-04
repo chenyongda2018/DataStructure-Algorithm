@@ -13,6 +13,9 @@ public class MyLinkList<T> {
     private MyNode<T> beginMark;//头节点 ,头尾节点只是起标记作用，并不存储数据
     private MyNode<T> endMark;//尾节点
 
+    public MyLinkList() {
+        clear();
+    }
 
     private static class MyNode<T> {
         private T data;//数据
@@ -65,9 +68,15 @@ public class MyLinkList<T> {
      * @param t
      */
     public void addBefore(MyNode<T> pre, T t) {
-        MyNode newNode = new MyNode(t, pre.pre, pre);
-        pre.pre.next = newNode;
-        pre.pre = newNode;
+        if (pre.pre!=null) {
+            MyNode newNode = new MyNode(t, pre.pre, pre);
+            newNode.pre.next = newNode;
+            pre.pre = newNode;
+        } else {
+            MyNode newNode = new MyNode(t, beginMark, endMark);
+            beginMark.next = newNode;
+            endMark.pre = newNode;
+        }
         theSize++;
         modCount++;
     }
