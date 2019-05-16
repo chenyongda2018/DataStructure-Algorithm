@@ -8,5 +8,6 @@ class BinaryTreeNode {
     BinaryTreeNode leftNode;
     BinaryTreeNode rightNode;
 }
-public class RebuildBinaryTreeNode {
+public class Main {
+
 }
