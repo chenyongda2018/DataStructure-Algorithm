@@ -1,4 +1,4 @@
-package T4_替换空格;
+package T6_替换空格;
 
 /**
  * Created by cyd on 19-4-5.

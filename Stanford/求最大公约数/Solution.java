@@ -17,6 +17,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(gdc(8,48 ));
+        System.out.println(gdc(8,3));
     }
 }
