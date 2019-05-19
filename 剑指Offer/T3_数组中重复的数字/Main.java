@@ -8,6 +8,18 @@ public class Main {
         System.out.println(num);
     }
 
+    /**条件：长度为n的数组，各元素在0~n-1范围，
+     * 思路:
+     * 1.假设数组有序，且无重复，则下标为i的位置上它的值就是i本身
+     * 2.从开始下标i开始检验，如果 i位置的值等于i，证明此位置上的元素在它该在的位置上(比较听话) 则i++,往下遍历
+     * 3.如果 i位置的值(a = nums[i]) 不等于i，找到下标为i位置的值的元素 (b = nums[a])，若b = a,则出现重复元素
+     * 4.如果3中 b 不等于a，则说明a占了b应该在的位置，交换a,b，让b归位.
+     * 5.重复 2 -4步骤
+     *
+     * @param nums
+     * @return
+     */
+
     public static int duplicateNum(int [] nums) {
         if (nums == null || nums.length<=0) {
             return -1;
