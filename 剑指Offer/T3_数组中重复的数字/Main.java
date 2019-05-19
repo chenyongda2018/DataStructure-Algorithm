@@ -17,7 +17,6 @@ public class Main {
                 return -1;
             }
         }
-
         int index = 0;
         while (index < nums.length) {
             //先看 index位置上的数 是否为 index
