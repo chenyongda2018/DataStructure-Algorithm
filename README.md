@@ -36,4 +36,5 @@
 [5-从头到尾打印链表](https://github.com/chenyongda2018/DataStructure-Algorithm/tree/master/%E5%89%91%E6%8C%87Offer/T5_%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8)
 [6-替换空格](https://github.com/chenyongda2018/DataStructure-Algorithm/tree/master/%E5%89%91%E6%8C%87Offer/T4_%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC)  
 [7-重建二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T7_%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91/Main.java)  
-[8-二叉树的下一个节点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T8_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9/Main.java)  
+[8-二叉树的下一个节点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T8_%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%82%E7%82%B9/Main.java)    
+[9-用两个栈实现队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T9_%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97/StackQueue.java)  
