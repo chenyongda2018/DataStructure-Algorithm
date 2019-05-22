@@ -18,7 +18,7 @@ public class ReplaceSpace {
         if (array == null) {
             return;
         }
-        StringBuilder stringBuilder = new StringBuilder(String.valueOf(array));
+        StringBuffer stringBuilder = new StringBuffer(String.valueOf(array));
         int spaceNum = 0;
         //1,先统计字符串中空格的个数
         for (int i = 0; i < stringBuilder.length(); i++) {
