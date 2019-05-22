@@ -12,6 +12,8 @@ public class QuickSort {
             return;
         }
         int index = partition(data, length, start, end);
+        quickSort(data, length, start, index - 1);
+        quickSort(data, length, index + 1, end);
         if (index > start) {
             quickSort(data, length, start, index - 1);
         }
