@@ -8,6 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +23,7 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
+            <state relative-caret-position="1148">
               <caret line="41" column="175" selection-start-line="41" selection-start-column="175" selection-end-line="41" selection-end-column="175" />
             </state>
           </provider>
@@ -31,12 +32,17 @@
       <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-              <folding>
-                <element signature="e#1655#1656#0" expanded="true" />
-                <element signature="e#1678#1679#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="434">
+              <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T11_找出旋转数组的最小数字/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -44,12 +50,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T10_2_青蛙跳台阶/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="308">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -57,8 +59,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T10_1_斐波那契数列/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="25" column="19" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="700">
+              <caret line="25" column="19" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -104,15 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="812">
               <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T6_替换空格/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -176,15 +169,16 @@
         <option value="$PROJECT_DIR$/剑指Offer/T10_斐波那契数列/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T10_2_青蛙跳台阶/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/剑指Offer/T11_找出旋转数组的最小数字/Solution.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -195,6 +189,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,14 +201,18 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure_Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -727,30 +727,37 @@
       <option name="project" value="LOCAL" />
       <updated>1558353721036</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add 找出旋转数组中的最小数字">
+      <created>1558453165173</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1558453165173</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="0" />
-      <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info id="Image Layers" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.17948718" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49946696" weight="0.32997763" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.17948718" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.1444563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.14605543" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="bottom" id="Debug" order="0" weight="0.34451902" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="0" weight="0.34451902" />
       <window_info anchor="right" id="Flutter Inspector" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -760,6 +767,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="0" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -810,7 +818,8 @@
     <MESSAGE value="add 斐波那契数列" />
     <MESSAGE value="update readme.md" />
     <MESSAGE value="add 青蛙跳台阶" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 青蛙跳台阶" />
+    <MESSAGE value="add 找出旋转数组中的最小数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 找出旋转数组中的最小数字" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -818,13 +827,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T6_替换空格/ReplaceSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T2_实现SingleTon模式/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -887,14 +889,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T4_二维数组查找/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/AbstractSequentialList.class">
@@ -1136,28 +1138,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T10_1_斐波那契数列/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="700">
+          <caret line="25" column="19" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T10_2_青蛙跳台阶/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="308">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="41" column="175" selection-start-line="41" selection-start-column="175" selection-end-line="41" selection-end-column="175" />
-        </state>
-      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="375">
@@ -1166,15 +1159,23 @@
           <second_editor />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="41" column="175" selection-start-line="41" selection-start-column="175" selection-end-line="41" selection-end-column="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T11_找出旋转数组的最小数字/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-          <folding>
-            <element signature="e#1655#1656#0" expanded="true" />
-            <element signature="e#1678#1679#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="434">
+          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
         </state>
       </provider>
     </entry>
