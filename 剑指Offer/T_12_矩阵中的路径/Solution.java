@@ -1,7 +1,4 @@
 package T_12_矩阵中的路径;
-
-import java.util.Stack;
-
 public class Solution {
     public boolean hasPath(char[] matrix, int rows, int cols, char[] str) {
         if (matrix == null || matrix.length <= 0 || rows <= 0 || cols <= 0 || str == null || str.length <= 0) {
