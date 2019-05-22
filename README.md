@@ -27,7 +27,8 @@
 ### 算法  
 - #### 排序  
 [归并排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/MergeSort.java)  
-[插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)  
+[插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)    
+[快速排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/QuickSort.java)  
 
 - #### 剑指Offer练习题
 [2-单例模式](https://github.com/chenyongda2018/DataStructure-Algorithm/tree/master/%E5%89%91%E6%8C%87Offer/T2_%E5%AE%9E%E7%8E%B0SingleTon%E6%A8%A1%E5%BC%8F)  

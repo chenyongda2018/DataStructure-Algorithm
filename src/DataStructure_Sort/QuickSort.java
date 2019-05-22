@@ -32,7 +32,6 @@ public class QuickSort {
             if (data[index] < data[end]) {
                 small++;
                 if (small != index) {
-
                     temp = data[index];
                     data[index] = data[small];
                     data[small] = temp;
