@@ -28,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_14_剪绳子/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+            <state relative-caret-position="328">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_15_二进制中1的个数/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -160,6 +169,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/剑指Offer/T_14_剪绳子/Solutoin.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_14_剪绳子/Solution.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_15_二进制中1的个数/Solution.java" />
       </list>
     </option>
   </component>
@@ -256,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -372,17 +382,6 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_Sort.QuickSort" />
-      <module name="DataStructure-Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure_Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T_12_矩阵中的路径.Solution" />
       <module name="DataStructure-Algorithm" />
@@ -401,6 +400,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="T_13_机器人的运动范围.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T_15_二进制中1的个数.Solution" />
+      <module name="DataStructure-Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T_15_二进制中1的个数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -537,18 +547,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -808,7 +818,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558536793932</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add 剪绳子">
+      <created>1558618974725</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1558618974725</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -897,15 +914,15 @@
     <MESSAGE value="add 矩阵中的路径" />
     <MESSAGE value="add 机器人运动的范围" />
     <MESSAGE value="save" />
-    <option name="LAST_COMMIT_MESSAGE" value="save" />
+    <MESSAGE value="add 剪绳子" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 剪绳子" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/sun/nio/ch/UnixAsynchronousServerSocketChannelImpl.class" />
     <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/cldrdata.jar!/sun/util/cldr/CLDRLocaleDataMetaInfo.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1258,8 +1275,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_14_剪绳子/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+        <state relative-caret-position="328">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_15_二进制中1的个数/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
         </state>
       </provider>
     </entry>
