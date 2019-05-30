@@ -1,4 +1,4 @@
-package T_18_删除链表的节点;
+package T_18_1_删除链表的节点;
 
 class ListNode {
     int val;
