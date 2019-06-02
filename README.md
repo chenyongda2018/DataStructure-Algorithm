@@ -45,4 +45,12 @@
 [12-矩阵中最短路径](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_12_%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84/Solution.java)  
 [13-机器人的运动范围](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_13_%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4/Solution.java)  
 [14-剪绳子](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_14_%E5%89%AA%E7%BB%B3%E5%AD%90/Solution.java)  
-[15-二进制中1的个数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_15_%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0/Solution.java)
+[15-二进制中1的个数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_15_%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0/Solution.java)  
+[16-数值的整数次方](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_16_%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9/Solution.java)  
+[18-1-删除链表的结点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_18_1_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9/Solution.java)  
+[18-2-删除链表重复的结点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_18_2_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E8%8A%82%E7%82%B9/Solution.java)  
+[19-正则表达式的匹配](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_19_%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D/Solution.java)  
+[20-表示数值的字符串](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_20_%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2/Solution.java)  
+[21-调整数组的顺序使奇数位于偶数前面](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_21_%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2/Solution.java)  
+[22-链表中倒数第K个节点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_22_%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACK%E4%B8%AA%E8%8A%82%E7%82%B9/Solution.java)  
+
