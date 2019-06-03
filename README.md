@@ -53,4 +53,8 @@
 [20-表示数值的字符串](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_20_%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2/Solution.java)  
 [21-调整数组的顺序使奇数位于偶数前面](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_21_%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2/Solution.java)  
 [22-链表中倒数第K个节点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_22_%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACK%E4%B8%AA%E8%8A%82%E7%82%B9/Solution.java)  
+[23-链表中环的入口结点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_23_%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E7%BB%93%E7%82%B9/Solution.java)  
+[24-反转链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)  
+[25-合并两个排序的链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)  
+
 
