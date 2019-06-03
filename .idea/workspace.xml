@@ -6,10 +6,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 反转链表">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer/T_22_链表中倒数第K个节点/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_22_链表中倒数第K个节点/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer/T_24_反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_24_反转链表/Solution.java" afterDir="false" />
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 合并两个排序的链表">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,53 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_23_链表中环的入口结点/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" selection-start-line="3" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_24_反转链表/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="1" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_22_链表中倒数第K个节点/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-              <folding>
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_25_合并两个排序的链表/Solution.java">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_26_树的子结构/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="-344">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
               <folding>
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DataStructure_Sort/_InsertSort/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_List/MyArrayList.java" />
@@ -145,11 +103,12 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_19_正则表达式匹配/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_20_表示数值的字符串/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_21_调整数组顺序使奇数位于偶数前面/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/剑指Offer/T_23_链表中环的入口结点/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_24_反转链表/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_22_链表中倒数第K个节点/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_25_合并两个排序的链表/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_26_树的子结构/Solution.java" />
       </list>
     </option>
   </component>
@@ -185,7 +144,7 @@
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_25_合并两个排序的链表" type="462c0819:PsiDirectoryNode" />
+              <item name="T_26_树的子结构" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -860,7 +819,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559555002188</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="add 合并两个排序的链表">
+      <created>1559555813393</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1559555813393</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -926,7 +892,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="递归求a的n次方" />
     <MESSAGE value="求最大公约数" />
     <MESSAGE value="update MyArrayList" />
     <MESSAGE value="add 二叉树的下一个节点" />
@@ -951,7 +916,8 @@
     <MESSAGE value="update readme.md" />
     <MESSAGE value="add 链表中环的入口结点" />
     <MESSAGE value="add 反转链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 反转链表" />
+    <MESSAGE value="add 合并两个排序的链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 合并两个排序的链表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -967,13 +933,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Iterator.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1281,21 +1240,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="375">
-            <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_23_链表中环的入口结点/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1332,10 +1276,36 @@
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_25_合并两个排序的链表/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="22" selection-end-column="25" />
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
             <element signature="e#219#220#0" expanded="true" />
             <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="375">
+            <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_26_树的子结构/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
