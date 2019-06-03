@@ -1,5 +1,9 @@
 package T_24_反转链表;
 
+/**
+ * 题目描述
+ * 输入一个链表，反转链表后，输出新链表的表头
+ */
 class ListNode {
     int val;
     ListNode next = null;
