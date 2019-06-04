@@ -57,6 +57,11 @@
 [24-反转链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)  
 [25-合并两个排序的链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_24_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/Solution.java)  
 [26-树的子结构](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_26_%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84/Solution.java)  
+[27-二叉树的镜像](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_27_%E4%BA%8C%E5%8F%89%E6%A0%91%E9%95%9C%E5%83%8F/Solution.java)  
+[28-对称的二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_28_%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
+[29-顺时针打印矩阵](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_28_%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
+[30-包含min函数的栈](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_30_%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88/Solution.java)  
+
 
 
 
