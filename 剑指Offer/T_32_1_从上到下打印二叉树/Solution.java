@@ -1,9 +1,7 @@
-package T_32_从上到下打印二叉树;
+package T_32_1_从上到下打印二叉树;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.PriorityQueue;
-import java.util.Queue;
 
 
 /**
@@ -17,20 +15,17 @@ public class Solution {
         if (root == null) {
             return list;
         }
-        LinkedList<TreeNode> linkedList = new LinkedList<>();
-
-
-
-        linkedList.add(root);
-        while (linkedList.size() > 0) {
-            TreeNode node = linkedList.pollFirst();
+        LinkedList<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while (queue.size() > 0) {
+            TreeNode node = queue.pollFirst();
             list.add(node.val);
 
             if (node.left != null) {
-                linkedList.add(node.left);
+                queue.add(node.left);
             }
             if (node.right != null) {
-                linkedList.add(node.right);
+                queue.add(node.right);
             }
         }
         return list;
