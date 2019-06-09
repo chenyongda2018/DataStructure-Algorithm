@@ -24,7 +24,7 @@ public class Solution {
         int j = i; //j为右子树的第一个结点的索引
         for (;j< length - 1;j++) {
             if (sequence[j] < root) {
-                return false;
+                return false;//右子树部分的结点值若比根节点小，则不是不符合二叉搜索树
             }
         }
 
