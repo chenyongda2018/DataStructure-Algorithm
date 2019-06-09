@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 从上到下打印二叉树">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer/T_32_从上到下打印二叉树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_32_1_从上到下打印二叉树/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,14 +20,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_2_分行从上到下打印二叉树/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+            <state relative-caret-position="756">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_3_之字形印二叉树/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Tree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -73,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DataStructure_List/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_List/ReverseDListNode.java" />
         <option value="$PROJECT_DIR$/LeetCode/车的可用捕获量_999/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/查询后的偶数和_985/Solution.java" />
@@ -124,6 +141,7 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_31_栈的压入弹出序列/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_32_从上到下打印二叉树/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_32_2_分行从上到下打印二叉树/Solution.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_32_3_之字形印二叉树/Solution.java" />
       </list>
     </option>
   </component>
@@ -189,6 +207,12 @@
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
               <item name="T_32_2_分行从上到下打印二叉树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="T_32_3_之字形印二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -524,13 +548,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
-    </task>
-    <task id="LOCAL-00009" summary="update MyArrayList">
-      <created>1556933200923</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1556933200923</updated>
     </task>
     <task id="LOCAL-00010" summary="update leetcode">
       <created>1557069785408</created>
@@ -868,7 +885,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559833622212</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="add 分行从上到下打印二叉树">
+      <created>1559835308217</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1559835308217</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -934,7 +958,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 青蛙跳台阶" />
     <MESSAGE value="add 找出旋转数组中的最小数字" />
     <MESSAGE value="add QuickSort" />
     <MESSAGE value="update README.md" />
@@ -959,7 +982,8 @@
     <MESSAGE value="update readme.md" />
     <MESSAGE value="add 栈的压入弹出序列" />
     <MESSAGE value="add 从上到下打印二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 从上到下打印二叉树" />
+    <MESSAGE value="add 分行从上到下打印二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 分行从上到下打印二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -975,14 +999,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/总持续时间可被60整除的歌曲_1010.java" />
-    <entry file="file://$PROJECT_DIR$/LeetCode/查找常用字符_1002/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/总持续时间可被60整除的歌曲_1010/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1360,8 +1376,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_2_分行从上到下打印二叉树/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        <state relative-caret-position="756">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_3_之字形印二叉树/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
