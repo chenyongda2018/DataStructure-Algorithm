@@ -63,7 +63,11 @@
 [30-包含min函数的栈](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_30_%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88/Solution.java)  
 [31-栈的压入弹出序列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_31_%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97/Solution.java)  
 [32-1-从上到下打印二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_1_%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
-[32-2-分行从上到下打印二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_2_%E5%88%86%E8%A1%8C%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
+[32-2-分行从上到下打印二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_2_%E5%88%86%E8%A1%8C%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)   
+[32-3-之字形打印二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_3_%E4%B9%8B%E5%AD%97%E5%BD%A2%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
+[33-二叉搜索树的后序遍历](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_3_%E4%B9%8B%E5%AD%97%E5%BD%A2%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
+[34-二叉树中和为某一值的路径](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_3_%E4%B9%8B%E5%AD%97%E5%BD%A2%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java) 
+
 
 
 

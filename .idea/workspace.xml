@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 二叉搜索树的后序遍历">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer/T_33_二叉搜索树的后序遍历/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_33_二叉搜索树的后序遍历/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,8 +56,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_34_二叉树中和为某一值的路径/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="404">
+              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -614,13 +611,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00013" summary="update MyArrayList">
-      <created>1557157104852</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1557157104852</updated>
-    </task>
     <task id="LOCAL-00014" summary="update leetcode">
       <created>1557245503454</created>
       <option name="number" value="00014" />
@@ -957,7 +947,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560082353382</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="add 二叉树的和为某一值的路径">
+      <created>1560092519688</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1560092519688</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -980,7 +977,7 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.20095949" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="bottom" id="Debug" order="0" weight="0.37024608" />
+      <window_info active="true" anchor="bottom" id="Debug" order="0" visible="true" weight="0.37024608" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" id="Flutter Inspector" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1023,7 +1020,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 矩阵中的路径" />
     <MESSAGE value="add 机器人运动的范围" />
     <MESSAGE value="save" />
     <MESSAGE value="add 剪绳子" />
@@ -1048,7 +1044,8 @@
     <MESSAGE value="update README.md" />
     <MESSAGE value="add 之字形打印二叉树" />
     <MESSAGE value="add 二叉搜索树的后序遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 二叉搜索树的后序遍历" />
+    <MESSAGE value="add 二叉树的和为某一值的路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 二叉树的和为某一值的路径" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1073,7 +1070,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/剑指Offer/T_34_二叉树中和为某一值的路径/Solution.java</url>
-          <line>57</line>
+          <line>60</line>
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
@@ -1475,8 +1472,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_34_二叉树中和为某一值的路径/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="404">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
       </provider>
     </entry>
