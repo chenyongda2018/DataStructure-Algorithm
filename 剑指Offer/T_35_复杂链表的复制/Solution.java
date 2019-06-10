@@ -42,6 +42,7 @@ public class Solution {
         }
     }
 
+    //将含有原链表和副本链表的总链表进行拆分
     public RandomListNode divideList(RandomListNode pHead) {
         RandomListNode head = pHead;
         RandomListNode cHead = null;
