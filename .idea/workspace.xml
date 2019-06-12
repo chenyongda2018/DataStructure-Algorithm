@@ -9,8 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 复杂链表的复制">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +23,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_35_复杂链表的复制/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="34" />
+            <state relative-caret-position="1148">
+              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding>
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_37_序列化二叉树/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T7_重建二叉树/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_34_二叉树中和为某一值的路径/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1680">
+              <caret line="60" column="68" selection-start-line="53" selection-start-column="8" selection-end-line="60" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -61,8 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/数组形式的整数加法_989/Solution.java" />
-        <option value="$PROJECT_DIR$/LeetCode/查找常用字符_1002/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/总持续时间可被60整除的歌曲_1010/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/寻找两个有序数组的中位数_4/Solution.java" />
@@ -112,6 +146,8 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_34_二叉树中和为某一值的路径/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/剑指Offer/T_35_复杂链表的复制/Solution.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_37_序列化二叉树/Solution.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java" />
       </list>
     </option>
   </component>
@@ -129,9 +165,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,29 +177,38 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure_Queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_35_复杂链表的复制" type="462c0819:PsiDirectoryNode" />
+              <item name="T7_重建二叉树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="T7_重建二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="T_36_二叉搜索树与双向链表" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="T_37_序列化二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -303,17 +347,6 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T_19_正则表达式匹配.Solution" />
-      <module name="DataStructure-Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="T_19_正则表达式匹配.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="T_20_表示数值的字符串.Solution" />
       <module name="DataStructure-Algorithm" />
@@ -321,6 +354,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="T_20_表示数值的字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T_36_二叉搜索树与双向链表.Solution" />
+      <module name="DataStructure-Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T_36_二叉搜索树与双向链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -467,19 +511,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -493,20 +537,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
-    </task>
-    <task id="LOCAL-00015" summary="二进制求和">
-      <created>1557588032201</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1557588032201</updated>
-    </task>
-    <task id="LOCAL-00016" summary="递归求a的n次方">
-      <created>1557758224837</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1557758224837</updated>
     </task>
     <task id="LOCAL-00017" summary="求最大公约数">
       <created>1557759515687</created>
@@ -837,11 +867,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560092671115</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="add 复杂链表的复制">
+      <created>1560157330896</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1560157330897</updated>
+    </task>
+    <task id="LOCAL-00065" summary="add 复杂链表的复制">
+      <created>1560174888871</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1560174888871</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="0" />
@@ -850,19 +894,20 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.18344519" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49946696" weight="0.32997763" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.18344519" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.14605543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="bottom" id="Debug" order="0" weight="0.37024608" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="0" weight="0.37024608" />
       <window_info anchor="right" id="Flutter Inspector" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32997763" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -870,7 +915,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32997763" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -903,7 +947,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 机器人运动的范围" />
     <MESSAGE value="save" />
     <MESSAGE value="add 剪绳子" />
     <MESSAGE value="add 二进制中1的个数" />
@@ -928,7 +971,8 @@
     <MESSAGE value="add 二叉搜索树的后序遍历" />
     <MESSAGE value="add 二叉树的和为某一值的路径" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="add 复杂链表的复制" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 复杂链表的复制" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -957,25 +1001,17 @@
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="28" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Stanford/求最大公约数/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stanford/Financial_Management/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -1006,13 +1042,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
           <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T7_重建二叉树/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1261,9 +1290,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1298,19 +1324,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_34_二叉树中和为某一值的路径/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="375">
@@ -1319,24 +1333,53 @@
           <second_editor />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_2_分行从上到下打印二叉树/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_35_复杂链表的复制/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="34" />
+        <state relative-caret-position="1148">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_34_二叉树中和为某一值的路径/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="60" column="68" selection-start-line="53" selection-start-column="8" selection-end-line="60" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T7_重建二叉树/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_37_序列化二叉树/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
           <folding>
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

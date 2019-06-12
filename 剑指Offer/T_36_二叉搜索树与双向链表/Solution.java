@@ -2,6 +2,8 @@ package T_36_二叉搜索树与双向链表;
 
 import com.sun.org.apache.bcel.internal.generic.LADD;
 
+import java.util.Stack;
+
 /**
  * 题目描述
  * 输入一棵二叉搜索树，将该二叉搜索树转换成一个排序的双向链表。要求不能创建任何新的结点，只能调整树中结点指针的指向。
@@ -9,36 +11,38 @@ import com.sun.org.apache.bcel.internal.generic.LADD;
 
 
 public class Solution {
+
     public TreeNode Convert(TreeNode pRootOfTree) {
-        TreeNode lastNodeList = null;
-        convertList(pRootOfTree, lastNodeList);
-        TreeNode head = lastNodeList;
-        while (head != null && head.left != null) {
-            head = head.left;
-        }
-        return head;
-    }
-
-    public void convertList(TreeNode pRootOfTree, TreeNode lastNodeList) {
         if (pRootOfTree == null) {
-            return;
+            return null;
         }
+        TreeNode pre = null;
         TreeNode current = pRootOfTree;
-        if (current.left != null) {
-            convertList(current.left, lastNodeList);
-            current.left = lastNodeList;
-        }
+        TreeNode root = null;
+        Stack<TreeNode> stack = new Stack<>();
+        boolean isFirst = true;
+        while (current != null || !stack.isEmpty()) {
+            while (current != null) {
+                stack.push(current);
+                current = current.left;
+            }
 
-        if (lastNodeList != null) {
-            lastNodeList.right = current;
-        }
+            current = stack.pop();
+            if (isFirst) {
+                root = current;
+                pre = current;
+                isFirst = false;
+            } else {
+                pre.right = current;
+                current.left = pre;
+                pre = current;
+            }
+            current = current.right;
 
-        lastNodeList = current;
-
-        if (current.right != null) {
-            convertList(current.right, lastNodeList);
         }
+        return root;
     }
+
 
     public static void main(String[] args) {
         Solution s = new Solution();
