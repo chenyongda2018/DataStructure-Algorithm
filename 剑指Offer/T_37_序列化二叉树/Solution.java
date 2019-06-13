@@ -7,47 +7,52 @@ package T_37_序列化二叉树;
 public class Solution {
 
 
+    /**
+     * 序列化二叉树
+     *
+     * @param root
+     * @return
+     */
     String Serialize(TreeNode root) {
-        if (root == null) {
-            return "";
-        }
         StringBuilder sb = new StringBuilder();
-        serializeToString(root, sb);
+        if (root == null) {
+            sb.append("#");
+            sb.append(",");
+            return sb.toString();
+        }
+        sb.append(root.val);
+        sb.append(",");
+        sb.append(Serialize(root.left));
+        sb.append(Serialize(root.right));
         return sb.toString();
 
     }
 
-    void serializeToString(TreeNode root, StringBuilder sb) {
-        if (root == null) {
-            sb.append("#,");
-        } else {
-            sb.append(root.val + ",");
-        }
-
-        serializeToString(root.left, sb);
-        serializeToString(root.right, sb);
-
-    }
+    /**
+     * 反序列化二叉树
+     */
+    int index = -1;
 
     TreeNode Deserialize(String str) {
         if (str == null || str.equals("")) {
             return null;
         }
-        String[] strings = str.split(",");
-        int index = -1;
-        return deserializeStr(strings, index);
-    }
-
-    TreeNode deserializeStr(String[] str, int index) {
         index++;
-        if (!str[index].equals("#")) {
-            int val = Integer.parseInt(str[index]);
+        String[] strings = str.split(",");
+        if (!strings[index].equals("#")) {
+            int val = Integer.parseInt(strings[index]);
             TreeNode root = new TreeNode(val);
-            root.left = deserializeStr(str, index);
-            root.right = deserializeStr(str, index);
+            root.left = Deserialize(str);
+            root.right = Deserialize(str);
             return root;
         }
         return null;
+
+    }
+
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        TreeNode tn = s.Deserialize("1,2,4,#,#,#,3,5,#,#,6,#,#");
     }
 }
 
