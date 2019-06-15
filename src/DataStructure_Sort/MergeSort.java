@@ -11,7 +11,7 @@ public class MergeSort {
         }
     }
 
-
+    //入口函数
     public static void sort(int[] a) {
         int[] temp = new int[a.length];
         mergeSort(a, temp, 0, a.length - 1);

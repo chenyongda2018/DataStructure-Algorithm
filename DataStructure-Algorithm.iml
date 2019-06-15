@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/剑指Offer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stanford" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/算法分析与设计" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
