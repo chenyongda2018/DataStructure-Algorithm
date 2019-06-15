@@ -29,6 +29,12 @@
 [归并排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/MergeSort.java)  
 [插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)    
 [快速排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/QuickSort.java)  
+- #### 递归
+[汉诺塔](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_1_%E6%B1%89%E8%AF%BA%E5%A1%94/Solution.java)  
+- #### 贪心算法
+[独木舟问题](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_2_%E7%8B%AC%E6%9C%A8%E8%88%9F%E9%97%AE%E9%A2%98/Solution.java)  
+- #### 动态规划
+[国王挖金矿](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_3_%E5%9B%BD%E7%8E%8B%E6%8C%96%E9%87%91%E7%9F%BF%E9%97%AE%E9%A2%98/Solution.java)  
 
 - #### 剑指Offer练习题
 [2-单例模式](https://github.com/chenyongda2018/DataStructure-Algorithm/tree/master/%E5%89%91%E6%8C%87Offer/T2_%E5%AE%9E%E7%8E%B0SingleTon%E6%A8%A1%E5%BC%8F)  
@@ -67,7 +73,11 @@
 [32-3-之字形打印二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_3_%E4%B9%8B%E5%AD%97%E5%BD%A2%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
 [33-二叉搜索树的后序遍历](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_3_%E4%B9%8B%E5%AD%97%E5%BD%A2%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
 [34-二叉树中和为某一值的路径](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_32_3_%E4%B9%8B%E5%AD%97%E5%BD%A2%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java) 
-
+[35-复杂链表的复制](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_35_%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6/Solution.java)  
+[36-二叉搜索树与双向链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_36_%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8/Solution.java)  
+[37-序列化二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_37_%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)  
+[38-字符串的排列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_38_%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97/Solution.java)  
+[39-数组中出现次数超过一半的数字](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_39_%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97/Solution_1.java)
 
 
 
