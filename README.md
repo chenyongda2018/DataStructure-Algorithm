@@ -1,6 +1,6 @@
-# 记录在大学期间学习的一些数据结构与算法的代码实现
+记录在大学期间学习的一些数据结构与算法的代码实现
 
-### 数据结构
+# 数据结构
 - #### 数组   
 [LeetCode_4_寻找两个有序数组的中位数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0_4/Solution.java)  
 [LeetCode_26_从排序数组中删除重复选项](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9_26/Main.java)    
@@ -24,7 +24,9 @@
 [通过栈前序遍历二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Tree/Traversing_Preorder_1.java)   
 [LeetCode_1021_删除最外层括号](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E5%88%A0%E9%99%A4%E6%9C%80%E5%A4%96%E5%B1%82%E6%8B%AC%E5%8F%B7_1021/Solution.java)
 
-### 算法  
+--- 
+
+# 算法  
 - #### 排序  
 [归并排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/MergeSort.java)  
 [插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)    
