@@ -26,7 +26,6 @@ public class Solution {
             } else {
                 currentSum = array[i];
             }
-
             if (currentSum > sum) {
                 sum = currentSum;
             }
