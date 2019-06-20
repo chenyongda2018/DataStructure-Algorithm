@@ -8,6 +8,7 @@ public class QuickSort {
         if (data == null || length <= 0 || start < 0 || end >= length) {
             return;
         }
+
         if (start == end) {
             return;
         }
