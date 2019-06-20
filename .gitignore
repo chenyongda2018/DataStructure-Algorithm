@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+将删除 .idea/uiDesigner.xml
+将删除 src/DataStructure_Sort/ArrUtil.java
+将删除 src/DataStructure_Sort/HeapSort.java
+将删除 "\347\250\213\345\272\217\345\221\230\344\273\243\347\240\201\351\235\242\350\257\225\346\214\207\345\215\227/"
