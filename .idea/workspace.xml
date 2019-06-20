@@ -12,7 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +24,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="308">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -36,7 +46,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_38_字符串的排列/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="784">
+            <state relative-caret-position="756">
               <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,14 +55,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_40_最小的K个数/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state relative-caret-position="2016">
+              <caret line="73" selection-start-line="73" selection-end-line="77" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_40_最小的K个数/Solution_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1932">
+              <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/T_3_国王挖金矿问题/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="16" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -83,9 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Stanford/Financial_Management/Main.java" />
-        <option value="$PROJECT_DIR$/剑指Offer/T7_重建二叉树/Main.java" />
-        <option value="$PROJECT_DIR$/剑指Offer/T8_二叉树的下一个节点/Main.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T3_数组中重复的数字/Main.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T9_用两个栈实现队列/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T9_用两个栈实现队列/StackQueue.java" />
@@ -127,21 +170,24 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_38_字符串的排列/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/T_1_汉诺塔/Solution.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/T_2_独木舟问题/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/T_3_国王挖金矿问题/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_1.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_40_最小的K个数/Solution.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_2.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_40_最小的K个数/Solution_2.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="36" />
+    <option name="y" value="16" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -151,6 +197,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,33 +220,19 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_38_字符串的排列" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_39_数组中出现次数超过一半的数字" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_40_最小的K个数" type="462c0819:PsiDirectoryNode" />
+              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
+              <item name="T_3_国王挖金矿问题" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_1">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -337,8 +371,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_Sort.MergeSort" />
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_Sort.InsertSort" />
       <module name="DataStructure-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -501,19 +535,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution_1" />
+      <item itemvalue="Application.InsertSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.Solution_1" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -527,13 +561,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
-    </task>
-    <task id="LOCAL-00024" summary="add 斐波那契数列">
-      <created>1558322109474</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1558322109474</updated>
     </task>
     <task id="LOCAL-00025" summary="update readme.md">
       <created>1558322378497</created>
@@ -871,11 +898,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560616198196</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="add 最小的k个数">
+      <created>1560689660473</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1560689660474</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-162" y="43" width="1936" height="1176" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="0" />
@@ -890,7 +924,7 @@
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.15724947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.16044776" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.36982247" />
@@ -937,7 +971,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 删除链表的节点" />
     <MESSAGE value="add 删除链表中重复的节点" />
     <MESSAGE value="add 正则表达式匹配" />
     <MESSAGE value="add 链表中倒数第K个节点" />
@@ -962,7 +995,8 @@
     <MESSAGE value="add 汉诺塔&#10;add 贪心算法之独木舟问题&#10;add 动态规划之国王挖金矿问题" />
     <MESSAGE value="add 数组中出现次数超过一半的数字" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="add 最小的k个数" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 最小的k个数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1014,20 +1048,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_13_机器人的运动范围/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T3_数组中重复的数字/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T4_二维数组查找/FindInPartiallySortedMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
@@ -1102,13 +1122,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -1296,13 +1309,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="47" lean-forward="true" selection-start-line="6" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/T_1_汉诺塔/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1329,13 +1335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法分析与设计/T_3_国王挖金矿问题/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Random.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1351,11 +1350,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="375">
@@ -1364,17 +1358,15 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="28">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_38_字符串的排列/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="784">
+        <state relative-caret-position="756">
           <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1382,13 +1374,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_39_数组中出现次数超过一半的数字/Solution_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_40_最小的K个数/Solution_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_40_最小的K个数/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        <state relative-caret-position="2016">
+          <caret line="73" selection-start-line="73" selection-end-line="77" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/T_3_国王挖金矿问题/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>
