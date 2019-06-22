@@ -26,27 +26,27 @@ public class Solution {
         mutilply5Numbers[0] = 5;
 
         while (nextUglyIndex < index) {
-            int min = getMin(uglyNumbers[number2Index]*2, uglyNumbers[number3Index]*3, uglyNumbers[number5Index]*5);
+            int min = getMin(uglyNumbers[number2Index] * 2, uglyNumbers[number3Index] * 3, uglyNumbers[number5Index] * 5);
             uglyNumbers[nextUglyIndex] = min;
 
-            while (uglyNumbers[number2Index] *2 <= min) {
-                mutilply2Numbers[number2Index] =uglyNumbers[number2Index] *2;
+            while (uglyNumbers[number2Index] * 2 <= min) {
+                mutilply2Numbers[number2Index] = uglyNumbers[number2Index] * 2;
                 number2Index++;
             }
 
-            while (uglyNumbers[number3Index] *3 <= min) {
-                mutilply3Numbers[number3Index] =uglyNumbers[number3Index] *3;
+            while (uglyNumbers[number3Index] * 3 <= min) {
+                mutilply3Numbers[number3Index] = uglyNumbers[number3Index] * 3;
                 number3Index++;
             }
 
-            while (uglyNumbers[number5Index] *5 <= min) {
-                mutilply5Numbers[number5Index] =uglyNumbers[number5Index] *5;
+            while (uglyNumbers[number5Index] * 5 <= min) {
+                mutilply5Numbers[number5Index] = uglyNumbers[number5Index] * 5;
                 number5Index++;
             }
             nextUglyIndex++;
         }
 
-        int result = uglyNumbers[nextUglyIndex-1];
+        int result = uglyNumbers[nextUglyIndex - 1];
         return result;
     }
 

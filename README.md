@@ -83,6 +83,8 @@
 [40-最小的k个数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_40_%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0/Solution.java)    
 [41-数据流中的中位数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_41_%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0/Solution.java)  
 [42-连续子数组的最大和](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_42_%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C/Solution.java)  
+[45-把数组排成最小的数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_45_%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0/Solution.java)  
+[49-丑数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_49_%E4%B8%91%E6%95%B0/Solution.java)  
 
 
 
