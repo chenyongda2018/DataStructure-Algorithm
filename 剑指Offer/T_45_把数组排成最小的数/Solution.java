@@ -25,19 +25,6 @@ public class Solution {
 
         return minResult.toString();
     }
-
-
-
-    //public boolean isSmaller(String str1,String str2) {
-    //    StringBuilder sb1 = new StringBuilder(str1).append(str2);
-    //    StringBuilder sb2 = new StringBuilder(str2).append(str1);
-    //    int num1 = Integer.valueOf(sb1.toString());
-    //    int num2 = Integer.valueOf(sb2.toString());
-    //    if (num1 <= num2) {
-    //        return true;
-    //    }
-    //    return false;
-    //}
 }
 
 class StringComparator implements Comparator<String> {
