@@ -13,26 +13,28 @@ public class Solution {
         if (str == null) {
             return -1;
         }
-        LinkedHashMap<Character,Integer> hashMap = new LinkedHashMap<Character, Integer>();
+        //LinkedHashMap 是一个顺序存储行Map集合
+        LinkedHashMap<Character, Integer> hashMap = new LinkedHashMap<Character, Integer>();
         char[] strArray = str.toCharArray();
         for (int i = 0; i < strArray.length; i++) {
             if (hashMap.containsKey(strArray[i])) {
                 int value = hashMap.get(strArray[i]);
-                hashMap.put(strArray[i],value+1 );
+                hashMap.put(strArray[i], value + 1);
             } else {
-                hashMap.put(strArray[i],1 );
+                hashMap.put(strArray[i], 1);
             }
-        }
+        }//这里按顺序存储每个字符的出现次数
 
         char onceChar = ' ';
 
-        for (Map.Entry<Character,Integer> entry : hashMap.entrySet()) {
+        //找出第一个出现次数为1的字符
+        for (Map.Entry<Character, Integer> entry : hashMap.entrySet()) {
             if (entry.getValue() == 1) {
                 onceChar = entry.getKey();
                 break;
             }
         }
-
+        //在源字符串中找出这个字符的位置
         for (int i = 0; i < strArray.length; i++) {
             if (strArray[i] == onceChar) {
                 return i;
