@@ -85,6 +85,9 @@
 [42-连续子数组的最大和](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_42_%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C/Solution.java)  
 [45-把数组排成最小的数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_45_%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0/Solution.java)  
 [49-丑数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_49_%E4%B8%91%E6%95%B0/Solution.java)  
+[50-第一个只出现一次的字符](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_50_%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6/Solution.java)  
+[51-数组中的逆序对](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_51_%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9/Solution.java)  
+
 
 
 
