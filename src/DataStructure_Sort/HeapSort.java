@@ -1,7 +1,6 @@
 package DataStructure_Sort;
 
 
-
 public class HeapSort {
     //1-递归调整节点与它的左节点和右节点
     public void adjustMaxHeap(int[] data, int root, int end) {
