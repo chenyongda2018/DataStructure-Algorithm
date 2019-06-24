@@ -28,6 +28,7 @@ public class Solution {
         if(bills == null || bills.length < 1) {
             return false;
         }
+        String str = "";
 
         int fives = 0;
         int tens = 0;

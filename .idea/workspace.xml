@@ -10,8 +10,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/剑指Offer/T_50_第一个只出现一次的字符/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_50_第一个只出现一次的字符/Solution.java" afterDir="false" />
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 柠檬水找零">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,99 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_45_把数组排成最小的数/Solution.java">
+      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_49_丑数/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Math.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/lang/Math.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/lang/String.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/ArrUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_50_第一个只出现一次的字符/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#344#364#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_51_数组中的逆序对/Solution.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="531">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -147,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_13_机器人的运动范围/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T6_替换空格/ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_14_剪绳子/Solutoin.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_14_剪绳子/Solution.java" />
@@ -194,18 +115,19 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_43_1到n中1出现的次数/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_45_把数组排成最小的数/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_49_丑数/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_50_第一个只出现一次的字符/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_51_数组中的逆序对/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="687" />
-    <option name="y" value="-15" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -226,13 +148,18 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure_Sort" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="贪心算法_1_柠檬水找零" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,7 +174,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -574,27 +501,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00033" summary="add 机器人运动的范围">
-      <created>1558534736573</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1558534736573</updated>
-    </task>
-    <task id="LOCAL-00034" summary="save">
-      <created>1558536709528</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1558536709528</updated>
-    </task>
-    <task id="LOCAL-00035" summary="save">
-      <created>1558536793932</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1558536793932</updated>
-    </task>
     <task id="LOCAL-00036" summary="add 剪绳子">
       <created>1558618974725</created>
       <option name="number" value="00036" />
@@ -917,12 +823,32 @@
       <option name="project" value="LOCAL" />
       <updated>1561278181663</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="add 数组中的逆序对儿">
+      <created>1561283219051</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1561283219051</updated>
+    </task>
+    <task id="LOCAL-00083" summary="update readme.md">
+      <created>1561283330342</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1561283330342</updated>
+    </task>
+    <task id="LOCAL-00084" summary="add 柠檬水找零">
+      <created>1561396525730</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1561396525730</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="0" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="6" />
@@ -932,13 +858,13 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.21588367" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.21588367" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49946696" weight="0.32997763" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.27771854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.15031983" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.36982247" />
@@ -984,12 +910,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 合并两个排序的链表" />
-    <MESSAGE value="add 树的子结构" />
     <MESSAGE value="add 二叉树镜像&#10;add 对称的二叉树" />
     <MESSAGE value="add 顺时针打印矩阵" />
     <MESSAGE value="add 包含min函数的栈" />
-    <MESSAGE value="update readme.md" />
     <MESSAGE value="add 栈的压入弹出序列" />
     <MESSAGE value="add 从上到下打印二叉树" />
     <MESSAGE value="add 分行从上到下打印二叉树" />
@@ -1009,7 +932,10 @@
     <MESSAGE value="add 丑数" />
     <MESSAGE value="update readme" />
     <MESSAGE value="add 第一次只出现一次的字符" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 第一次只出现一次的字符" />
+    <MESSAGE value="add 数组中的逆序对儿" />
+    <MESSAGE value="update readme.md" />
+    <MESSAGE value="add 柠檬水找零" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 柠檬水找零" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1061,13 +987,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_21_调整数组顺序使奇数位于偶数前面/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_23_链表中环的入口结点/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1319,13 +1238,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1932">
@@ -1392,10 +1304,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_50_第一个只出现一次的字符/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_51_数组中的逆序对/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="86" column="20" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="20" />
+        <state relative-caret-position="598">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
         </state>
       </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1414,35 +1344,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_50_第一个只出现一次的字符/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#344#364#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="-699">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_51_数组中的逆序对/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="182">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
