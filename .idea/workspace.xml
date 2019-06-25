@@ -12,10 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,11 +59,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="43" column="305" selection-start-line="43" selection-start-column="305" selection-end-line="43" selection-end-column="305" />
+            <state relative-caret-position="-928">
+              <caret line="43" column="97" lean-forward="true" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -160,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_17_打印1到最大的n位数/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_18_删除链表的节点/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_19_删除链表中重复的节点/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_18_2_删除链表中重复的节点/Solution.java" />
@@ -211,6 +222,7 @@
         <option value="$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java" />
       </list>
     </option>
   </component>
@@ -274,27 +286,14 @@
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="T_1_汉诺塔" type="462c0819:PsiDirectoryNode" />
+              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="T_1_不相邻元素之和的最大值" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="T_2_子集之和等于指定值" type="462c0819:PsiDirectoryNode" />
+              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
+              <item name="T_1_跳跃游戏" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -636,13 +635,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00041" summary="add 删除链表中重复的节点">
-      <created>1559120036874</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1559120036874</updated>
-    </task>
     <task id="LOCAL-00042" summary="add 正则表达式匹配">
       <created>1559204608914</created>
       <option name="number" value="00042" />
@@ -979,7 +971,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561475343866</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="update README.md">
+      <created>1561475907167</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1561475907167</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1057,7 +1056,6 @@
     <MESSAGE value="add 字符串的排列" />
     <MESSAGE value="add 汉诺塔&#10;add 贪心算法之独木舟问题&#10;add 动态规划之国王挖金矿问题" />
     <MESSAGE value="add 数组中出现次数超过一半的数字" />
-    <MESSAGE value="update README.md" />
     <MESSAGE value="add 最小的k个数" />
     <MESSAGE value="add 连续子数组的最大和" />
     <MESSAGE value="add 把数组排成最小的数" />
@@ -1071,7 +1069,8 @@
     <MESSAGE value="add 分发饼干" />
     <MESSAGE value="add 不相邻元素之和的最大值" />
     <MESSAGE value="add 给出一个数组，和target值，判断数组中是否有子集的和等于target" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 给出一个数组，和target值，判断数组中是否有子集的和等于target" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1123,23 +1122,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_29_顺时针打印矩阵/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_31_栈的压入弹出序列/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Queue.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -1493,8 +1475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="43" column="305" selection-start-line="43" selection-start-column="305" selection-end-line="43" selection-end-column="305" />
+        <state relative-caret-position="-928">
+          <caret line="43" column="97" lean-forward="true" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
         </state>
       </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1503,6 +1485,18 @@
             <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
         </state>
       </provider>
     </entry>
