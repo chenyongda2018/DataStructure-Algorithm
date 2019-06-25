@@ -35,8 +35,15 @@
 [汉诺塔](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_1_%E6%B1%89%E8%AF%BA%E5%A1%94/Solution.java)  
 - #### 贪心算法
 [独木舟问题](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_2_%E7%8B%AC%E6%9C%A8%E8%88%9F%E9%97%AE%E9%A2%98/Solution.java)  
+[LeetCode-860-柠檬水找零](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95_1_%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6/Solution.java)  
+[LeetCode-392-判断子序列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95_2_%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97/Solution.java)  
+[LeetCode-455-分发饼干](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95_3_%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2/Solution.java)  
+
 - #### 动态规划
 [国王挖金矿](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_3_%E5%9B%BD%E7%8E%8B%E6%8C%96%E9%87%91%E7%9F%BF%E9%97%AE%E9%A2%98/Solution.java)  
+[数组中所有不相邻元素的最大值](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/T_1_%E4%B8%8D%E7%9B%B8%E9%82%BB%E5%85%83%E7%B4%A0%E4%B9%8B%E5%92%8C%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC/Solution.java)  
+[判断数组中是否有子集之和等于指定值](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/T_2_%E5%AD%90%E9%9B%86%E4%B9%8B%E5%92%8C%E7%AD%89%E4%BA%8E%E6%8C%87%E5%AE%9A%E5%80%BC/Solution.java)  
+
 
 - #### 剑指Offer练习题
 [2-单例模式](https://github.com/chenyongda2018/DataStructure-Algorithm/tree/master/%E5%89%91%E6%8C%87Offer/T2_%E5%AE%9E%E7%8E%B0SingleTon%E6%A8%A1%E5%BC%8F)  

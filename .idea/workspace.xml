@@ -12,6 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +39,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
+            <state relative-caret-position="575">
               <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
@@ -44,8 +48,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="78">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -55,6 +59,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="254">
               <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="43" column="305" selection-start-line="43" selection-start-column="305" selection-end-line="43" selection-end-column="305" />
             </state>
           </provider>
         </entry>
@@ -80,8 +93,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="52">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -89,8 +102,8 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_4_跳跃游戏/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="260">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -111,11 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/T_2_子集之和等于指定值/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+            <state relative-caret-position="78">
+              <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -190,22 +203,22 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_49_丑数/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_50_第一个只出现一次的字符/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_51_数组中的逆序对/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java" />
-        <option value="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" />
-        <option value="$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java" />
-        <option value="$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/贪心算法_4_跳跃游戏/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/动态规划/T_1_不相邻元素之和的最大值/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/动态规划/T_2_子集之和等于指定值/Solution.java" />
+        <option value="$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java" />
+        <option value="$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java" />
+        <option value="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1079" />
-    <option name="y" value="-16" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -233,6 +246,24 @@
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="贪心算法_1_柠檬水找零" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="贪心算法_2_判断子序列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="贪心算法_3_分发饼干" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="贪心算法_4_跳跃游戏" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -605,20 +636,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00039" summary="add 数值的整数次方">
-      <created>1558795025307</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1558795025307</updated>
-    </task>
-    <task id="LOCAL-00040" summary="add 删除链表的节点">
-      <created>1558861669470</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1558861669470</updated>
-    </task>
     <task id="LOCAL-00041" summary="add 删除链表中重复的节点">
       <created>1559120036874</created>
       <option name="number" value="00041" />
@@ -948,11 +965,25 @@
       <option name="project" value="LOCAL" />
       <updated>1561468900635</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="add 给出一个数组，和target值，判断数组中是否有子集的和等于target">
+      <created>1561472860132</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1561472860132</updated>
+    </task>
+    <task id="LOCAL-00089" summary="add 给出一个数组，和target值，判断数组中是否有子集的和等于target">
+      <created>1561475343866</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1561475343866</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="0" />
@@ -963,13 +994,13 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.21499014" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.2147651" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49946696" weight="0.29092702" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.15031983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.23667377" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.36982247" />
@@ -1015,7 +1046,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 栈的压入弹出序列" />
     <MESSAGE value="add 从上到下打印二叉树" />
     <MESSAGE value="add 分行从上到下打印二叉树" />
     <MESSAGE value="add 之字形打印二叉树" />
@@ -1040,7 +1070,8 @@
     <MESSAGE value="add 判断子序列" />
     <MESSAGE value="add 分发饼干" />
     <MESSAGE value="add 不相邻元素之和的最大值" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 不相邻元素之和的最大值" />
+    <MESSAGE value="add 给出一个数组，和target值，判断数组中是否有子集的和等于target" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 给出一个数组，和target值，判断数组中是否有子集的和等于target" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1371,21 +1402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="375">
-            <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/ArrUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -1404,20 +1420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -1442,23 +1444,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java">
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/T_2_子集之和等于指定值/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        <state relative-caret-position="78">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_4_跳跃游戏/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="260">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/T_1_不相邻元素之和的最大值/Solution.java">
@@ -1468,10 +1491,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/T_2_子集之和等于指定值/Solution.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        <state relative-caret-position="581">
+          <caret line="43" column="305" selection-start-line="43" selection-start-column="305" selection-end-line="43" selection-end-column="305" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="375">
+            <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
