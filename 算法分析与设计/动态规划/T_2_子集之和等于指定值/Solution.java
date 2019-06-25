@@ -6,6 +6,13 @@ package 动态规划.T_2_子集之和等于指定值;
 public class Solution {
 
 
+    /**
+     * 递归实现
+     * @param data
+     * @param i
+     * @param target
+     * @return
+     */
     public boolean rec_opt(int[] data, int i, int target) {
         if (data == null || data.length < 1) {
             return false;
@@ -29,11 +36,50 @@ public class Solution {
 
     }
 
+
+    /**
+     * 动态规划，填表法
+     * @param data
+     * @param target
+     * @return
+     */
+    public boolean noRec_opt(int[] data,int target) {
+        if (data == null || data.length < 1) {
+            return false;
+        }
+        boolean[][] opt = new boolean[data.length][target+1];
+        for (int i = 1; i < data.length; i++) {
+            opt[i][0] = true;
+        }
+
+        for (int i = 0; i < target; i++) {
+            opt[0][i] = false;
+            if (i == data[0]) {
+                opt[0][i] = true;
+            }
+        }
+
+        for (int i = 1 ; i < data.length ; i++) {
+            for (int j = 1; j < target+1; j++) {
+                if (data[i] > j) {
+                    opt[i][j] = opt[i-1][j];
+                }else {
+                    boolean select = opt[i-1][j - data[i]];
+                    boolean noSelect = opt[i-1][j];
+                    opt[i][j] = select || noSelect;
+                }
+            }
+        }
+
+        return opt[data.length-1][target];
+
+    }
+
     public static void main(String[] args) {
         Solution s = new Solution();
         int[] data = new int[]{3, 34, 4, 12, 5, 2};
-        int target = 100;
+        int target = 7;
 
-        System.out.println(s.rec_opt(data, data.length - 1, target)); //false
+        System.out.println(s.noRec_opt(data, target)); //false
     }
 }
