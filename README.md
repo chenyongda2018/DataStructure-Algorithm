@@ -38,6 +38,9 @@
 [LeetCode-860-柠檬水找零](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95_1_%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6/Solution.java)  
 [LeetCode-392-判断子序列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95_2_%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97/Solution.java)  
 [LeetCode-455-分发饼干](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95_3_%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2/Solution.java)  
+[LeetCode-334-递增的三元子序列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/T_334_%E9%80%92%E5%A2%9E%E7%9A%84%E4%B8%89%E5%85%83%E5%AD%90%E5%BA%8F%E5%88%97/Solution.java)  
+[LeetCode-452-用最少量的弓箭射爆气球](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/T_452_%E7%94%A8%E6%9C%80%E5%B0%91%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83/Solution.java)  
+[LeetCode-826-安排工作达到最大收益](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/T_826_%E5%AE%89%E6%8E%92%E5%B7%A5%E4%BD%9C%E8%BE%BE%E5%88%B0%E6%9C%80%E5%A4%A7%E6%94%B6%E7%9B%8A/Solution.java)  
 
 - #### 动态规划
 [国王挖金矿](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_3_%E5%9B%BD%E7%8E%8B%E6%8C%96%E9%87%91%E7%9F%BF%E9%97%AE%E9%A2%98/Solution.java)  
