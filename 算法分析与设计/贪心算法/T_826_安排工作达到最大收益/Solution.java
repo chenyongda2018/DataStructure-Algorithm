@@ -57,4 +57,31 @@ public class Solution {
 
         return profits;
     }
+
+    /**
+     * 动态规划
+     */
+    public int maxProfitAssignment_2(int[] difficulty, int[] profit, int[] worker) {
+        if (difficulty == null || profit == null || worker == null) return 0;
+
+        int maxDifficcut = 10000;
+        int max_profit[] = new int[maxDifficcut+1];
+
+        for (int i = 0; i < difficulty.length; i++) {
+            max_profit[difficulty[i]] = profit[i];
+        }
+
+        int best = 0;
+        int sum = 0;
+        for (int i = 1; i < max_profit.length; i++) {
+            best = Math.max(max_profit[i-1],max_profit[i] );
+            max_profit[i] = best;
+        }
+        for (int i = 0; i < worker.length; i++) {
+            sum += max_profit[i];
+        }
+
+        return sum;
+
+    }
 }
