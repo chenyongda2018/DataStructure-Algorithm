@@ -10,10 +10,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 跳跃游戏">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,20 +26,29 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="289">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_452_用最少量的箭引爆气球/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-535">
+              <caret line="14" column="162" selection-start-line="14" selection-start-column="162" selection-end-line="14" selection-end-column="162" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_452_用最少量的箭引爆气球/Solution.java">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_334_递增的三元子序列/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="449">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -75,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_18_2_删除链表中重复的节点/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_19_正则表达式匹配/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_20_表示数值的字符串/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_21_调整数组顺序使奇数位于偶数前面/Solution.java" />
@@ -126,14 +132,15 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_452_用最少量的箭引爆气球/Solution.java" />
+        <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_334_递增的三元子序列/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -168,6 +175,13 @@
               <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
               <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
               <item name="T_1_跳跃游戏" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
+              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
+              <item name="T_334_递增的三元子序列" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -516,13 +530,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00043" summary="add 链表中倒数第K个节点">
-      <created>1559310486962</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1559310486962</updated>
-    </task>
     <task id="LOCAL-00044" summary="update readme.md">
       <created>1559462627379</created>
       <option name="number" value="00044" />
@@ -859,7 +866,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561479686533</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="add 弓箭射气球">
+      <created>1561540102802</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1561540102802</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -874,13 +888,13 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.20469798" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.2360179" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49946696" weight="0.29092702" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.20362474" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.20362474" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.36982247" />
@@ -926,7 +940,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 分行从上到下打印二叉树" />
     <MESSAGE value="add 之字形打印二叉树" />
     <MESSAGE value="add 二叉搜索树的后序遍历" />
     <MESSAGE value="add 二叉树的和为某一值的路径" />
@@ -951,7 +964,8 @@
     <MESSAGE value="add 给出一个数组，和target值，判断数组中是否有子集的和等于target" />
     <MESSAGE value="update README.md" />
     <MESSAGE value="add 跳跃游戏" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 跳跃游戏" />
+    <MESSAGE value="add 弓箭射气球" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 弓箭射气球" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1003,13 +1017,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Queue/MyQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_30_包含min函数的栈/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1369,18 +1376,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="289">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_452_用最少量的箭引爆气球/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="-535">
+          <caret line="14" column="162" selection-start-line="14" selection-start-column="162" selection-end-line="14" selection-end-column="162" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_334_递增的三元子序列/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
