@@ -1,5 +1,7 @@
 package 贪心算法.T_1_跳跃游戏;
 
+import java.util.Collections;
+
 /*
  * @lc app=leetcode.cn id=55 lang=java
  *
@@ -18,6 +20,7 @@ class Solution {
                 lastGoodPosition = i;
             }
         }
+
 
         return lastGoodPosition == 0;
     }
