@@ -10,9 +10,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 安排工作最大效益">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法分析与设计/贪心算法/T_826_安排工作达到最大收益/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法分析与设计/贪心算法/T_826_安排工作达到最大收益/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,15 +53,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_826_安排工作达到最大收益/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
+            <state relative-caret-position="1586">
               <caret line="61" column="11" lean-forward="true" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1029_两地调度/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="767">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="611">
+              <caret line="59" column="30" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="59" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -95,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_20_表示数值的字符串/Solution.java" />
-        <option value="$PROJECT_DIR$/剑指Offer/T_21_调整数组顺序使奇数位于偶数前面/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_23_链表中环的入口结点/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_24_反转链表/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_22_链表中倒数第K个节点/Solution.java" />
@@ -140,12 +171,14 @@
         <option value="$PROJECT_DIR$/LeetCode/贪心算法_2_判断子序列/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/贪心算法_3_分发饼干/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_452_用最少量的箭引爆气球/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_334_递增的三元子序列/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_826_安排工作达到最大收益/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/算法分析与设计/T_1029_两地调度/Solution.java" />
+        <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" />
       </list>
     </option>
   </component>
@@ -187,28 +220,7 @@
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
               <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
-              <item name="T_1_跳跃游戏" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
-              <item name="T_334_递增的三元子序列" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
-              <item name="T_452_用最少量的箭引爆气球" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
-              <item name="T_826_安排工作达到最大收益" type="462c0819:PsiDirectoryNode" />
+              <item name="T_1046_最后一块石头的重量" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -550,20 +562,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00046" summary="add 链表中环的入口结点">
-      <created>1559553288793</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1559553288793</updated>
-    </task>
-    <task id="LOCAL-00047" summary="add 反转链表">
-      <created>1559555002188</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1559555002188</updated>
-    </task>
     <task id="LOCAL-00048" summary="add 合并两个排序的链表">
       <created>1559555813393</created>
       <option name="number" value="00048" />
@@ -893,7 +891,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561551531867</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="add 安排工作最大效益">
+      <created>1561554727031</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1561554727031</updated>
+    </task>
+    <task id="LOCAL-00096" summary="add 安排工作最大效益">
+      <created>1561554859181</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1561554859181</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1037,20 +1049,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/PriorityQueue.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_1_从上到下打印二叉树/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1353,26 +1351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-928">
-          <caret line="43" column="97" lean-forward="true" selection-start-line="43" selection-start-column="97" selection-end-line="43" selection-end-column="97" />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="375">
-            <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -1413,11 +1391,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_826_安排工作达到最大收益/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="1586">
           <caret line="61" column="11" lean-forward="true" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="375">
+            <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1029_两地调度/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="59" column="30" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="59" selection-end-column="30" />
         </state>
       </provider>
     </entry>
