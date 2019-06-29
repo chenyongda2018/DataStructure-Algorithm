@@ -10,8 +10,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 扑克牌的顺子">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +32,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/T_3_买卖股票的最佳时机/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
               <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
@@ -70,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_26_树的子结构/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_27_二叉树镜像/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_28_对称的二叉树/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_29_顺时针打印矩阵/Solution.java" />
@@ -116,11 +133,12 @@
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_826_安排工作达到最大收益/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/算法分析与设计/T_1029_两地调度/Solution.java" />
-        <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_763_划分字母区间/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_61_扑克牌的顺子/Solutino.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_61_扑克牌的顺子/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_62_圆圈中最后剩下的数字/Solution.java" />
+        <option value="$PROJECT_DIR$/算法分析与设计/动态规划/T_3_买卖股票的最佳时机/Solution.java" />
+        <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" />
       </list>
     </option>
   </component>
@@ -149,26 +167,31 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="T_59_1_滑动窗口的最大值" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="T_3_买卖股票的最佳时机" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
               <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
+              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
+              <item name="T_1046_最后一块石头的重量" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -510,13 +533,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00051" summary="add 二叉树镜像&#10;add 对称的二叉树">
-      <created>1559636069871</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1559636069872</updated>
-    </task>
     <task id="LOCAL-00052" summary="add 顺时针打印矩阵">
       <created>1559649508852</created>
       <option name="number" value="00052" />
@@ -853,7 +869,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561695697114</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="add 买卖股票的最佳时机">
+      <created>1561800855418</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1561800855419</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -921,7 +944,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 序列化二叉树" />
     <MESSAGE value="add 字符串的排列" />
     <MESSAGE value="add 汉诺塔&#10;add 贪心算法之独木舟问题&#10;add 动态规划之国王挖金矿问题" />
     <MESSAGE value="add 数组中出现次数超过一半的数字" />
@@ -946,7 +968,8 @@
     <MESSAGE value="add 安排工作最大效益&#10;add 两地调度&#10;add 最后一块石头的重量" />
     <MESSAGE value="add 划分字母区间" />
     <MESSAGE value="add 扑克牌的顺子" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 扑克牌的顺子" />
+    <MESSAGE value="add 买卖股票的最佳时机" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 买卖股票的最佳时机" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -998,13 +1021,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_2_分行从上到下打印二叉树/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_35_复杂链表的复制/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1148">
@@ -1305,13 +1321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_763_划分字母区间/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
@@ -1354,6 +1363,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/T_3_买卖股票的最佳时机/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
