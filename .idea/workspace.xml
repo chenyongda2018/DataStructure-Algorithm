@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,39 +22,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-            </state>
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/T_3_买卖股票的最佳时机/Solution.java">
+      <file leaf-file-name="MyStack.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="130">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_27_二叉树镜像/Solution.java" />
-        <option value="$PROJECT_DIR$/剑指Offer/T_28_对称的二叉树/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_29_顺时针打印矩阵/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_30_包含min函数的栈/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_31_栈的压入弹出序列/Solution.java" />
@@ -139,14 +121,16 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_62_圆圈中最后剩下的数字/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/动态规划/T_3_买卖股票的最佳时机/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -156,7 +140,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,38 +153,25 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_59_1_滑动窗口的最大值" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_1_栈队列" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
-              <item name="贪心算法" type="462c0819:PsiDirectoryNode" />
-              <item name="T_1046_最后一块石头的重量" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_1_栈队列" type="462c0819:PsiDirectoryNode" />
+              <item name="T_1_设计一个又getMin功能的栈" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -532,13 +505,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
-    </task>
-    <task id="LOCAL-00052" summary="add 顺时针打印矩阵">
-      <created>1559649508852</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1559649508852</updated>
     </task>
     <task id="LOCAL-00053" summary="add 包含min函数的栈">
       <created>1559650106249</created>
@@ -876,11 +842,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561800855419</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="add 滑动窗口的最大值">
+      <created>1561802396544</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1561802396545</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="0" />
@@ -892,12 +865,12 @@
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.2360179" />
-      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49946696" weight="0.29092702" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49946696" weight="0.80966467" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.21002132" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.21215352" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.36982247" />
@@ -944,7 +917,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 字符串的排列" />
     <MESSAGE value="add 汉诺塔&#10;add 贪心算法之独木舟问题&#10;add 动态规划之国王挖金矿问题" />
     <MESSAGE value="add 数组中出现次数超过一半的数字" />
     <MESSAGE value="add 最小的k个数" />
@@ -969,7 +941,8 @@
     <MESSAGE value="add 划分字母区间" />
     <MESSAGE value="add 扑克牌的顺子" />
     <MESSAGE value="add 买卖股票的最佳时机" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 买卖股票的最佳时机" />
+    <MESSAGE value="add 滑动窗口的最大值" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 滑动窗口的最大值" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1021,20 +994,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_35_复杂链表的复制/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1148">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_34_二叉树中和为某一值的路径/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="60" column="68" selection-start-line="53" selection-start-column="8" selection-end-line="60" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T7_重建二叉树/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
@@ -1348,11 +1307,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="375">
@@ -1361,25 +1315,46 @@
           <second_editor />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/动态规划/T_3_买卖股票的最佳时机/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
+        <state relative-caret-position="1092">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="468">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
