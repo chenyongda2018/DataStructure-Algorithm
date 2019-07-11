@@ -30,15 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyStack.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding>
-                <element signature="e#711#712#0" expanded="true" />
-                <element signature="e#750#751#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_2_由两个栈组成的队列/MyQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -72,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_29_顺时针打印矩阵/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_30_包含min函数的栈/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_31_栈的压入弹出序列/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_32_从上到下打印二叉树/Solution.java" />
@@ -123,6 +127,7 @@
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1046_最后一块石头的重量/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_2_由两个栈组成的队列/MyQueue.java" />
       </list>
     </option>
   </component>
@@ -141,8 +146,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,7 +171,7 @@
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter_1_栈队列" type="462c0819:PsiDirectoryNode" />
-              <item name="T_1_设计一个又getMin功能的栈" type="462c0819:PsiDirectoryNode" />
+              <item name="T_2_由两个栈组成的队列" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -506,13 +511,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00053" summary="add 包含min函数的栈">
-      <created>1559650106249</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1559650106249</updated>
-    </task>
     <task id="LOCAL-00054" summary="add 包含min函数的栈">
       <created>1559650117865</created>
       <option name="number" value="00054" />
@@ -849,7 +847,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561802396545</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="add 设计一个又getMin功能的栈">
+      <created>1562771482171</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1562771482172</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -870,7 +875,7 @@
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.21215352" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.36982247" />
@@ -917,7 +922,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 汉诺塔&#10;add 贪心算法之独木舟问题&#10;add 动态规划之国王挖金矿问题" />
     <MESSAGE value="add 数组中出现次数超过一半的数字" />
     <MESSAGE value="add 最小的k个数" />
     <MESSAGE value="add 连续子数组的最大和" />
@@ -942,7 +946,8 @@
     <MESSAGE value="add 扑克牌的顺子" />
     <MESSAGE value="add 买卖股票的最佳时机" />
     <MESSAGE value="add 滑动窗口的最大值" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 滑动窗口的最大值" />
+    <MESSAGE value="add 设计一个又getMin功能的栈" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 设计一个又getMin功能的栈" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -994,13 +999,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T7_重建二叉树/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="29" column="70" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="980">
@@ -1349,12 +1347,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_2_由两个栈组成的队列/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
         </state>
       </provider>
     </entry>
