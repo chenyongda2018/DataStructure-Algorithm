@@ -33,17 +33,26 @@
       <file leaf-file-name="MyStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="858">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyQueue.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyQueue.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_2_由两个栈组成的队列/MyQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+            <state relative-caret-position="793">
+              <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/仅用递归和栈实现逆序栈/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="662">
+              <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -77,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_30_包含min函数的栈/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_31_栈的压入弹出序列/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_32_从上到下打印二叉树/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_32_2_分行从上到下打印二叉树/Solution.java" />
@@ -128,6 +136,7 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_2_由两个栈组成的队列/MyQueue.java" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/仅用递归和栈实现逆序栈/Solution.java" />
       </list>
     </option>
   </component>
@@ -146,8 +155,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,10 +180,19 @@
               <item name="Chapter_1_栈队列" type="462c0819:PsiDirectoryNode" />
               <item name="T_2_由两个栈组成的队列" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_1_栈队列" type="462c0819:PsiDirectoryNode" />
+              <item name="仅用递归和栈实现逆序栈" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -331,6 +347,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_1_栈队列.仅用递归和栈实现逆序栈.Solution" />
+      <module name="DataStructure-Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter_1_栈队列.仅用递归和栈实现逆序栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="动态规划.T_1_不相邻元素之和的最大值.Solution" />
       <module name="DataStructure-Algorithm" />
@@ -360,17 +387,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="贪心算法.T_452_用最少量的箭引爆气球.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T_51_数组中的逆序对.Solution" />
-      <module name="DataStructure-Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="T_51_数组中的逆序对.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -484,19 +500,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.SelectSort" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -510,13 +526,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
-    </task>
-    <task id="LOCAL-00054" summary="add 包含min函数的栈">
-      <created>1559650117865</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1559650117865</updated>
     </task>
     <task id="LOCAL-00055" summary="update readme.md">
       <created>1559650313313</created>
@@ -854,7 +863,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562771482172</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="add 由2个栈组成的队列">
+      <created>1562806288769</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1562806288770</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -875,7 +891,7 @@
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.21428572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.21641791" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.36982247" />
@@ -922,7 +938,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 数组中出现次数超过一半的数字" />
     <MESSAGE value="add 最小的k个数" />
     <MESSAGE value="add 连续子数组的最大和" />
     <MESSAGE value="add 把数组排成最小的数" />
@@ -947,7 +962,8 @@
     <MESSAGE value="add 买卖股票的最佳时机" />
     <MESSAGE value="add 滑动窗口的最大值" />
     <MESSAGE value="add 设计一个又getMin功能的栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 设计一个又getMin功能的栈" />
+    <MESSAGE value="add 由2个栈组成的队列" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 由2个栈组成的队列" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -999,16 +1015,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_37_序列化二叉树/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1305,17 +1311,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="375">
             <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1347,15 +1353,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        <state relative-caret-position="858">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_2_由两个栈组成的队列/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+        <state relative-caret-position="793">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/仅用递归和栈实现逆序栈/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
         </state>
       </provider>
     </entry>
