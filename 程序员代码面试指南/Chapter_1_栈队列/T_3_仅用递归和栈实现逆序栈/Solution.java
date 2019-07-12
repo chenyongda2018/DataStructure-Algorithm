@@ -1,4 +1,4 @@
-package Chapter_1_栈队列.仅用递归和栈实现逆序栈;
+package Chapter_1_栈队列.T_3_仅用递归和栈实现逆序栈;
 
 import java.util.Stack;
 
