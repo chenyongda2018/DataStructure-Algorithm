@@ -10,9 +10,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 单调栈结构">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_8_单调栈结构/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_8_单调栈结构/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2288">
-              <caret line="88" column="107" selection-start-line="88" selection-start-column="107" selection-end-line="88" selection-end-column="107" />
+            <state relative-caret-position="403">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -103,11 +104,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_7_生成窗口最大值数组/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            <state relative-caret-position="338">
+              <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_8_单调栈结构/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -171,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer/T_35_复杂链表的复制/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_37_序列化二叉树/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_38_字符串的排列/Solution.java" />
@@ -214,7 +223,6 @@
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_2_由两个栈组成的队列/MyQueue.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/仅用递归和栈实现逆序栈/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_4_猫狗队列/PetEnterQueue.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_4_猫狗队列/DogCatQueue.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_4_猫狗队列/Solution.java" />
@@ -222,6 +230,8 @@
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_6_用栈解决汉诺塔的问题/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_7_生成窗口最大值数组/Solution.java" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_8_单调栈结构/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -264,7 +274,7 @@
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter_1_栈队列" type="462c0819:PsiDirectoryNode" />
-              <item name="T_7_生成窗口最大值数组" type="462c0819:PsiDirectoryNode" />
+              <item name="T_8_单调栈结构" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -425,17 +435,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="动态规划.T_1_不相邻元素之和的最大值.Solution" />
-      <module name="DataStructure-Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="动态规划.T_1_不相邻元素之和的最大值.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="动态规划.T_2_子集之和等于指定值.Solution" />
       <module name="DataStructure-Algorithm" />
@@ -454,6 +453,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chapter_1_栈队列.T_5_用一个栈实现另一个栈的排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter_1_栈队列.T_8_单调栈结构.Solution" />
+      <module name="DataStructure-Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter_1_栈队列.T_8_单调栈结构.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -578,19 +588,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -604,20 +614,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
-    </task>
-    <task id="LOCAL-00058" summary="add 分行从上到下打印二叉树">
-      <created>1559835308217</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1559835308217</updated>
-    </task>
-    <task id="LOCAL-00059" summary="update README.md">
-      <created>1560070408431</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1560070408431</updated>
     </task>
     <task id="LOCAL-00060" summary="add 之字形打印二叉树">
       <created>1560073356204</created>
@@ -948,7 +944,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562924775068</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="add 滑动窗口的最大值">
+      <created>1562978247233</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1562978247233</updated>
+    </task>
+    <task id="LOCAL-00108" summary="add 单调栈结构">
+      <created>1562980914056</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1562980914056</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -964,13 +974,13 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.20469798" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.36689037" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49946696" weight="0.80966467" />
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="right" id="Flutter Outline" order="0" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.15212528" visible="true" weight="0.18176973" />
       <window_info id="Structure" order="0" sideWeight="0.8478747" side_tool="true" weight="0.14392324" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="bottom" id="Debug" order="0" weight="0.36982247" />
@@ -1016,7 +1026,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 丑数" />
     <MESSAGE value="update readme" />
     <MESSAGE value="add 第一次只出现一次的字符" />
     <MESSAGE value="add 数组中的逆序对儿" />
@@ -1035,13 +1044,14 @@
     <MESSAGE value="add 划分字母区间" />
     <MESSAGE value="add 扑克牌的顺子" />
     <MESSAGE value="add 买卖股票的最佳时机" />
-    <MESSAGE value="add 滑动窗口的最大值" />
     <MESSAGE value="add 设计一个又getMin功能的栈" />
     <MESSAGE value="add 由2个栈组成的队列" />
     <MESSAGE value="add 仅用递归和栈把一个栈逆序" />
     <MESSAGE value="add 猫狗队列" />
     <MESSAGE value="add 用一个栈实现对另一个栈进行排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 用一个栈实现对另一个栈进行排序" />
+    <MESSAGE value="add 滑动窗口的最大值" />
+    <MESSAGE value="add 单调栈结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 单调栈结构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1093,13 +1103,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_40_最小的K个数/Solution_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_40_最小的K个数/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2016">
@@ -1365,21 +1368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2288">
-          <caret line="88" column="107" selection-start-line="88" selection-start-column="107" selection-end-line="88" selection-end-column="107" />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="375">
-            <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_4_猫狗队列/PetEnterQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -1448,8 +1436,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_7_生成窗口最大值数组/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        <state relative-caret-position="338">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_8_单调栈结构/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="375">
+            <caret line="15" column="162" selection-start-line="15" selection-start-column="162" selection-end-line="15" selection-end-column="162" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

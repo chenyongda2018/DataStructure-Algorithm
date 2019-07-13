@@ -16,7 +16,9 @@
 - #### 栈队列  
 [普通队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Queue/MyQueue.java)  
 [循环队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Queue/CircularQueue.java)  
-[通过队列层序遍历二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Tree/Traversing_LevelOrder.java)
+[通过队列层序遍历二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Tree/Traversing_LevelOrder.java)  
+[程序员代码面试指南_猫狗队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_1_%E6%A0%88%E9%98%9F%E5%88%97/T_4_%E7%8C%AB%E7%8B%97%E9%98%9F%E5%88%97/DogCatQueue.java)  
+
 
 [栈](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Stack/MyStack.java)  
 [LeetCode学习记录_有效的字符串](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Stack/%E6%9C%89%E6%95%88%E7%9A%84%E7%AC%A6%E5%8F%B7.md)  
@@ -26,8 +28,10 @@
 [程序员代码面试指南_设计一个又getMin功能的栈](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_1_%E6%A0%88%E9%98%9F%E5%88%97/T_1_%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E5%8F%88getMin%E5%8A%9F%E8%83%BD%E7%9A%84%E6%A0%88/MyStack.java)  
 [程序员代码面试指南_由两个栈组成的队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_1_%E6%A0%88%E9%98%9F%E5%88%97/T_2_%E7%94%B1%E4%B8%A4%E4%B8%AA%E6%A0%88%E7%BB%84%E6%88%90%E7%9A%84%E9%98%9F%E5%88%97/MyQueue.java)  
 [程序员代码面试指南_仅用递归和栈实现逆序栈](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_1_%E6%A0%88%E9%98%9F%E5%88%97/%E4%BB%85%E7%94%A8%E9%80%92%E5%BD%92%E5%92%8C%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%80%86%E5%BA%8F%E6%A0%88/Solution.java)  
-
-
+[程序员代码面试指南_用一个栈实现另一个栈的排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_1_%E6%A0%88%E9%98%9F%E5%88%97/T_5_%E7%94%A8%E4%B8%80%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%A0%88%E7%9A%84%E6%8E%92%E5%BA%8F/Solution.java)  
+[程序员代码面试指南_用栈解决汉诺塔的问题](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_1_%E6%A0%88%E9%98%9F%E5%88%97/T_6_%E7%94%A8%E6%A0%88%E8%A7%A3%E5%86%B3%E6%B1%89%E8%AF%BA%E5%A1%94%E7%9A%84%E9%97%AE%E9%A2%98/Solution.java)  
+[程序员代码面试指南_生成窗口最大值数组](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_1_%E6%A0%88%E9%98%9F%E5%88%97/T_7_%E7%94%9F%E6%88%90%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC%E6%95%B0%E7%BB%84/Solution.java)  
+[程序员代码面试指南_单调栈结构](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_1_%E6%A0%88%E9%98%9F%E5%88%97/T_8_%E5%8D%95%E8%B0%83%E6%A0%88%E7%BB%93%E6%9E%84/Solution.java)  
 
 --- 
 
