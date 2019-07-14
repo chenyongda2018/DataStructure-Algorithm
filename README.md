@@ -9,7 +9,7 @@
 [LeetCode_989_数组形式的整数加法](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95_989/Solution.java)  
 [LeetCode_999_车的可用捕获量](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E8%BD%A6%E7%9A%84%E5%8F%AF%E7%94%A8%E6%8D%95%E8%8E%B7%E9%87%8F_999/Solution.java)      
 [LeetCode_1002_查找常用字符](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E6%9F%A5%E6%89%BE%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6_1002/Solution.java)  
-- #### 表
+- #### 链表
 [手动实现ArrayList](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_List/MyArrayList.java)  
 [反转单链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_List/ReverseList.java)   
 [反转双向链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_List/ReverseDListNode.java)   
