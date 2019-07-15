@@ -12,7 +12,12 @@
 - #### 链表
 [手动实现ArrayList](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_List/MyArrayList.java)  
 [反转单链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_List/ReverseList.java)   
-[反转双向链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_List/ReverseDListNode.java)   
+[反转双向链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_List/ReverseDListNode.java)  
+[程序员代码面试指南_打印2个链表的公共部分](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_2_%E9%93%BE%E8%A1%A8/T_1_%E6%89%93%E5%8D%B02%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E5%85%AC%E5%85%B1%E9%83%A8%E5%88%86/Node.java)  
+[程序员代码面试指南_在单链表中和双链表中删除倒数第k个节点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_2_%E9%93%BE%E8%A1%A8/T_2_%E5%9C%A8%E5%8D%95%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%92%8C%E5%8F%8C%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%88%A0%E9%99%A4%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9/Solution.java)  
+[程序员代码面试指南_删除链表的中间节点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_2_%E9%93%BE%E8%A1%A8/T_3_%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E8%8A%82%E7%82%B9/Solution.java)  
+[程序员代码面试指南_反转单向和双向链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_2_%E9%93%BE%E8%A1%A8/T_4_%E5%8F%8D%E8%BD%AC%E5%8D%95%E5%90%91%E5%92%8C%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8/Solution.java)  
+
 - #### 栈队列  
 [普通队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Queue/MyQueue.java)  
 [循环队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Queue/CircularQueue.java)  
