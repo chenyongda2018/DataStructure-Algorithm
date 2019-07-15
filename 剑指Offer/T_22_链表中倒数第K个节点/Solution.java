@@ -22,6 +22,8 @@ public class Solution {
             return null;
         }
 
+
+
         ListNode node1 = head;
         ListNode node2 = null;
 
