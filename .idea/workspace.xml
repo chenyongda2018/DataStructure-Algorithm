@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer/T_22_链表中倒数第K个节点/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_22_链表中倒数第K个节点/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,12 +65,23 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="234">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_24_反转链表/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -205,27 +216,14 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="T_24_反转链表" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_2_链表" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_2_链表" type="462c0819:PsiDirectoryNode" />
-              <item name="T_2_在单链表中和双链表中删除倒数第k个节点" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_2_链表" type="462c0819:PsiDirectoryNode" />
-              <item name="T_2_在单链表中和双链表中删除倒数第k个节点" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="T_24_反转链表" type="462c0819:PsiDirectoryNode" />
               <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
@@ -569,13 +567,6 @@
       <option name="presentableId" value="Default" />
       <updated>1554221097255</updated>
     </task>
-    <task id="LOCAL-00063" summary="update README.md">
-      <created>1560092671115</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1560092671115</updated>
-    </task>
     <task id="LOCAL-00064" summary="add 复杂链表的复制">
       <created>1560157330896</created>
       <option name="number" value="00064" />
@@ -912,7 +903,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563105978282</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="add 反转单向链表">
+      <created>1563170239394</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1563170239395</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -980,7 +978,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 数组中的逆序对儿" />
     <MESSAGE value="update readme.md" />
     <MESSAGE value="add 柠檬水找零" />
     <MESSAGE value="add 判断子序列" />
@@ -1005,7 +1002,8 @@
     <MESSAGE value="add 单调栈结构" />
     <MESSAGE value="add 打印2个链表的公共部分" />
     <MESSAGE value="add 删除单链表双链表的倒数第k个结点" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 删除单链表双链表的倒数第k个结点" />
+    <MESSAGE value="add 反转单向链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 反转单向链表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1057,13 +1055,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/lang/Math.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_49_丑数/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1409,13 +1400,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_24_反转链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="234">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
           </folding>
         </state>
       </provider>
