@@ -3,8 +3,6 @@ package DataStructure_Sort;
 public class SelectSort {
 
 
-
-
     public void selectSort1(int[] data) {
         int length = data.length;
         for (int i = 0; i < length-1; i++) {
@@ -17,11 +15,6 @@ public class SelectSort {
             swap(data,i,min);
         }
     }
-
-
-
-
-
 
 
     //递归实现选择排序
