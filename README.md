@@ -55,10 +55,10 @@
 
 # 算法  
 - #### 排序  
-[冒泡排序][https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/BubbleSort.java]  
-[堆排序][https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/HeapSort.java]  
-[归并排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/MergeSort.java)  
-[插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)    
+[冒泡排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/BubbleSort.java)  
+[堆排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/HeapSort.java)  
+[归并排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/MergeSort.java)    
+[插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)      
 [快速排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/QuickSort.java)   
  
 - #### 递归
