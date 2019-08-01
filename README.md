@@ -55,11 +55,18 @@
 
 # 算法  
 - #### 排序  
+[冒泡排序][https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/BubbleSort.java]  
+[堆排序][https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/HeapSort.java]  
 [归并排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/MergeSort.java)  
 [插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)    
-[快速排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/QuickSort.java)  
+[快速排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/QuickSort.java)   
+ 
 - #### 递归
 [汉诺塔](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_1_%E6%B1%89%E8%AF%BA%E5%A1%94/Solution.java)  
+
+
+
+
 - #### 贪心算法
 [独木舟问题](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_2_%E7%8B%AC%E6%9C%A8%E8%88%9F%E9%97%AE%E9%A2%98/Solution.java)  
 [LeetCode-860-柠檬水找零](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/LeetCode/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95_1_%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6/Solution.java)  
