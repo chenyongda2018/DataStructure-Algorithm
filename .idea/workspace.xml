@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 二叉树的前序遍历">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,33 +27,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_14_返回链表的中间结点/Slution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="21" selection-start-line="21" selection-end-line="27" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_15_将搜索二叉树转换成双向链表/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="634">
-              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -67,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_27_二叉树镜像/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="579">
+            <state relative-caret-position="832">
               <caret line="32" selection-start-line="32" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
@@ -76,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_1_先序遍历/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="99">
+              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,9 +58,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_2_中序遍历/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="27" selection-start-line="27" selection-end-line="37" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_3_后序遍历/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
+            <state relative-caret-position="546">
               <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
             </state>
           </provider>
@@ -103,12 +105,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="685">
-                <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <first_editor relative-caret-position="232">
+                <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -157,8 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/贪心算法_1_柠檬水找零/Solution.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_1_跳跃游戏/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_452_用最少量的箭引爆气球/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/贪心算法/T_334_递增的三元子序列/Solution.java" />
@@ -208,14 +208,16 @@
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_15_将搜索二叉树转换成双向链表/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_1_先序遍历/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_2_中序遍历/Solution.java" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_3_后序遍历/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="956" />
-    <option name="y" value="-21" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -226,8 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,19 +244,36 @@
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_2_链表" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="T_2_中序遍历" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="T_2_中序遍历" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="loadClass&#9;PSI&#9;JAVA://java.lang.ClassLoader#loadClass" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564620906839" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564654775605" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Androidworkspace/BeatBox" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -283,7 +300,8 @@
   </component>
   <component name="RunManager" selected="Application.A">
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -434,8 +452,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -522,14 +539,8 @@
       <workItem from="1564330872919" duration="9083000" />
       <workItem from="1564479252012" duration="3587000" />
       <workItem from="1564585952059" duration="3696000" />
-      <workItem from="1564620929847" duration="3972000" />
-    </task>
-    <task id="LOCAL-00077" summary="add 连续子数组的最大和">
-      <created>1561030641592</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1561030641593</updated>
+      <workItem from="1564620929847" duration="4714000" />
+      <workItem from="1564654787299" duration="1098000" />
     </task>
     <task id="LOCAL-00078" summary="add 把数组排成最小的数">
       <created>1561192374949</created>
@@ -867,11 +878,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564626022967</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="add 二叉树的前序遍历">
+      <created>1564626383555</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1564626383556</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23203000" />
+    <option name="totallyTimeSpent" value="25043000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -883,7 +901,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -891,13 +909,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.15212528" visible="true" weight="0.15601704" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.15212528" visible="true" weight="0.24973376" />
       <window_info id="Captures" order="6" weight="0.25" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="UI Designer" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.24760994" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.24760994" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.32907662" />
-      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" weight="0.80943024" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" weight="0.8087954" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36982247" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
@@ -1045,9 +1063,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_5_用一个栈实现另一个栈的排序/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_1_设计一个又getMin功能的栈/MyStack.java" />
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_2_由两个栈组成的队列/MyQueue.java" />
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_1_栈队列/T_6_用栈解决汉诺塔的问题/Solution.java" />
     <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/Deque.class" />
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_59_1_滑动窗口的最大值/Solution.java">
@@ -1194,30 +1209,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_12_将单链表的每K个结点之间逆序/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="48" selection-start-line="48" selection-end-line="55" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_8_将单向链表按某值按大小划分/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1924">
-          <caret line="74" selection-start-line="74" selection-end-line="80" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_15_将搜索二叉树转换成双向链表/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
+        <state relative-caret-position="988">
           <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
         </state>
       </provider>
@@ -1232,33 +1226,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_27_二叉树镜像/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
+        <state relative-caret-position="832">
           <caret line="32" selection-start-line="32" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_36_二叉搜索树与双向链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_12_将单链表的每K个结点之间逆序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="48" selection-start-line="48" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_8_将单向链表按某值按大小划分/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1924">
+          <caret line="74" selection-start-line="74" selection-end-line="80" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="232">
+            <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_1_先序遍历/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="99">
+          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="685">
-            <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_2_中序遍历/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="27" selection-start-line="27" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1664">
-          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_3_后序遍历/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
