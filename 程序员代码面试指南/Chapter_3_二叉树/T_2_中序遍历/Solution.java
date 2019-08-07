@@ -20,9 +20,9 @@ public class Solution {
                 stack.push(cur);
                 cur = cur.left;
             }else {
-                TreeNode TreeNode = stack.pop();
-                list.add(TreeNode.val);
-                cur = TreeNode.right;
+                TreeNode node = stack.pop();
+                list.add(node.val);
+                cur = node.right;
             }
         }
         return list;
