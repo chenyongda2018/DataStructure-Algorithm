@@ -9,7 +9,7 @@ public class InsertSort {
         if (a.length > 1) {
             int j = 0;
             for (int i = start+1; i <=end; i++) {
-                int num = a[i];
+                int num = a[i]; //已排序序列
                 for (j = i; j > 0 && a[j - 1] > num; j--) {
                     a[j] = a[j - 1];
                 }

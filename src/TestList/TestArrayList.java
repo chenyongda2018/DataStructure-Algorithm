@@ -2,6 +2,7 @@ package TestList;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.concurrent.LinkedBlockingQueue;
 
 public class TestArrayList {
     private static ArrayList<Integer> list = new ArrayList<>();
@@ -53,6 +54,7 @@ public class TestArrayList {
         for (int i = 0; i < 10; i++) {
             list.add(i);
         }
+        long l = 012;
         new Thread1().start();
         new Thread2().start();
 
