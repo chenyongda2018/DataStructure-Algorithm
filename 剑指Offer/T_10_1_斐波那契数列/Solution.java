@@ -15,7 +15,7 @@ public class Solution {
         if (n==1) {
             return 1;
         }
-        long one = 0;
+        long one = 1;
         long two = 1;
         long sum = 0;
         for (long i = 2; i <= n; i++) {
@@ -42,6 +42,6 @@ public class Solution {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.Fibonacci(11));
+        System.out.println(solution.Fibonacci(2));
     }
 }
