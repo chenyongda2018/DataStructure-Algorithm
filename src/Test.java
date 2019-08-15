@@ -1,3 +1,5 @@
+import 修饰符.Person;
+
 import java.util.concurrent.*;
 
 /**
@@ -6,6 +8,7 @@ import java.util.concurrent.*;
 
 public class Test {
     public static void main(String[] args) {
+
         ExecutorService threadPool = Executors.newCachedThreadPool();
         Future<Integer> task = threadPool.submit(new Callable<Integer>() {
 
