@@ -10,7 +10,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 左旋转字符串">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="update readme.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -71,8 +71,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="394">
-                <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+              <first_editor relative-caret-position="344">
+                <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
               </first_editor>
               <second_editor />
             </state>
@@ -608,21 +608,7 @@
       <workItem from="1565182080965" duration="3786000" />
       <workItem from="1565255531099" duration="37535000" />
       <workItem from="1566042248163" duration="4949000" />
-      <workItem from="1566115736161" duration="7714000" />
-    </task>
-    <task id="LOCAL-00093" summary="add 递增的三元子序列">
-      <created>1561541727771</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1561541727771</updated>
-    </task>
-    <task id="LOCAL-00094" summary="add 安排工作最大效益">
-      <created>1561551531867</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1561551531867</updated>
+      <workItem from="1566115736161" duration="8210000" />
     </task>
     <task id="LOCAL-00095" summary="add 安排工作最大效益">
       <created>1561554727031</created>
@@ -953,11 +939,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566138759908</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="update readme.md">
+      <created>1566141664491</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1566141664491</updated>
+    </task>
+    <task id="LOCAL-00143" summary="update readme.md">
+      <created>1566141797912</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1566141797912</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130246000" />
+    <option name="totallyTimeSpent" value="130742000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1097,7 +1097,6 @@
     <MESSAGE value="add 删除单链表双链表的倒数第k个结点" />
     <MESSAGE value="add 反转单向链表" />
     <MESSAGE value="add 反转双向链表" />
-    <MESSAGE value="update readme.md" />
     <MESSAGE value="add 反转链表中间的一部分" />
     <MESSAGE value="add 判断链表是不是回文结构" />
     <MESSAGE value="add 复制含有随机指针的链表" />
@@ -1119,7 +1118,8 @@
     <MESSAGE value="add 和为S的序列" />
     <MESSAGE value="add 反转句子" />
     <MESSAGE value="add 左旋转字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 左旋转字符串" />
+    <MESSAGE value="update readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1595,8 +1595,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="394">
-            <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+          <first_editor relative-caret-position="344">
+            <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
           </first_editor>
           <second_editor />
         </state>

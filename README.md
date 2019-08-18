@@ -64,7 +64,11 @@
 [归并排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/MergeSort.java)    
 [插入排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/InsertSort.java)      
 [快速排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/QuickSort.java)   
- 
+[堆排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/HeapSort.java)
+[选择排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/SelectSort.java)  
+[希尔排序](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Sort/ShellSort.java)  
+
+
 - #### 递归
 [汉诺塔](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_1_%E6%B1%89%E8%AF%BA%E5%A1%94/Solution.java)  
 
