@@ -25,11 +25,15 @@
 [程序员代码面试指南_合并两个有序链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_2_%E9%93%BE%E8%A1%A8/T_13_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/Solution.java)  
 [程序员代码面试指南_返回链表的中间结点](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_2_%E9%93%BE%E8%A1%A8/T_14_%E8%BF%94%E5%9B%9E%E9%93%BE%E8%A1%A8%E7%9A%84%E4%B8%AD%E9%97%B4%E7%BB%93%E7%82%B9/Slution.java)  
 [程序员代码面试指南_将搜索二叉树转换成双向链表](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_2_%E9%93%BE%E8%A1%A8/T_15_%E5%B0%86%E6%90%9C%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91%E8%BD%AC%E6%8D%A2%E6%88%90%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8/Solution.java)  
+  
 
 
 - #### 二叉树  
 [程序员代码面试指南_先序遍历](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_3_%E4%BA%8C%E5%8F%89%E6%A0%91/T_1_%E5%85%88%E5%BA%8F%E9%81%8D%E5%8E%86/Solution.java)  
-
+[程序员代码面试指南_中序遍历](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_3_%E4%BA%8C%E5%8F%89%E6%A0%91/T_2_%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86/Solution.java)  
+[程序员代码面试指南_求二叉树的深度](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_3_%E4%BA%8C%E5%8F%89%E6%A0%91/T_8_%E6%B1%82%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6/Solution.java)  
+[程序员代码面试指南_后序遍历](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_3_%E4%BA%8C%E5%8F%89%E6%A0%91/T_3_%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86/Solution.java)  
+[判断二叉树是否为平衡二叉树](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_3_%E4%BA%8C%E5%8F%89%E6%A0%91/T_6_%E5%88%A4%E6%96%AD%E4%BA%8C%E5%8F%89%E6%A0%91%E6%98%AF%E5%90%A6%E4%B8%BA%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91/Solution.java)
 
 - #### 栈队列  
 [普通队列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/src/DataStructure_Queue/MyQueue.java)  
@@ -80,7 +84,7 @@
 [国王挖金矿](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/T_3_%E5%9B%BD%E7%8E%8B%E6%8C%96%E9%87%91%E7%9F%BF%E9%97%AE%E9%A2%98/Solution.java)  
 [数组中所有不相邻元素的最大值](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/T_1_%E4%B8%8D%E7%9B%B8%E9%82%BB%E5%85%83%E7%B4%A0%E4%B9%8B%E5%92%8C%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC/Solution.java)  
 [判断数组中是否有子集之和等于指定值](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/T_2_%E5%AD%90%E9%9B%86%E4%B9%8B%E5%92%8C%E7%AD%89%E4%BA%8E%E6%8C%87%E5%AE%9A%E5%80%BC/Solution.java)  
-
+[斐波那契数列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97/Chapter_3_%E4%BA%8C%E5%8F%89%E6%A0%91/T_5_%E9%80%92%E5%BD%92%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/T_1_%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98/Solution.java)
 
 - #### 剑指Offer练习题
 [2-单例模式](https://github.com/chenyongda2018/DataStructure-Algorithm/tree/master/%E5%89%91%E6%8C%87Offer/T2_%E5%AE%9E%E7%8E%B0SingleTon%E6%A8%A1%E5%BC%8F)  
@@ -130,7 +134,14 @@
 [45-把数组排成最小的数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_45_%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0/Solution.java)  
 [49-丑数](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_49_%E4%B8%91%E6%95%B0/Solution.java)  
 [50-第一个只出现一次的字符](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_50_%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6/Solution.java)  
-[51-数组中的逆序对](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_51_%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9/Solution.java)  
+[51-数组中的逆序对](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_51_%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9/Solution.java)    
+[57_1_和为S的序列](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_57_1_%E5%92%8C%E4%B8%BAS%E7%9A%84%E5%BA%8F%E5%88%97/Solution.java)  
+[58_反转句子](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_58_%E5%8F%8D%E8%BD%AC%E5%8F%A5%E5%AD%90/Solution.java)  
+[58_2_左旋转字符串](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_58_2_%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/Solution.java)  
+[59_1_滑动窗口的最大值](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_59_1_%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC/Solution.java)  
+[61_扑克牌的顺子](https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_61_%E6%89%91%E5%85%8B%E7%89%8C%E7%9A%84%E9%A1%BA%E5%AD%90/Solution.java)  
+[67_字符串转数字][https://github.com/chenyongda2018/DataStructure-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer/T_67_%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%95%B0%E5%AD%97/Solution.java]  
+
 
 
 
