@@ -10,11 +10,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 二叉树深度">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 反转句子">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JVM/TestVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JVM/TestVolatile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestList/TestArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestList/TestArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_8_求二叉树的深度/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_8_求二叉树的深度/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,18 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestProxy/DynamicProxyHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestInit/TestInit.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -76,11 +62,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_57_1_和为S的序列/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="440">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="2992" column="25" selection-start-line="2992" selection-start-column="25" selection-end-line="2992" selection-end-column="25" />
+              <folding>
+                <element signature="e#4677#4678#0" expanded="true" />
+                <element signature="e#4714#4715#0" expanded="true" />
+                <element signature="e#22786#22787#0" expanded="true" />
+                <element signature="e#22821#22822#0" expanded="true" />
+                <element signature="e#94598#94599#0" expanded="true" />
+                <element signature="e#94636#94637#0" expanded="true" />
+                <element signature="e#117893#117894#0" expanded="true" />
+                <element signature="e#117955#117956#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,15 +104,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="223">
               <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18070">
-              <caret line="738" column="31" selection-start-line="738" selection-start-column="31" selection-end-line="738" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -184,9 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_6_环形单链表的而约瑟夫问题/Solution.java" />
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_7_判断链表是否为回文结构/Solution.java" />
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_9_其他/T_1_出现次数的TOPK个问题/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_8_将单向链表按某值按大小划分/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_10_给定中间一个结点并从链表中删除/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_11_复制含有随机指针结点的链表/Solution.java" />
@@ -235,12 +237,15 @@
         <option value="$PROJECT_DIR$/src/TestProxy/DynamicProxyHandler.java" />
         <option value="$PROJECT_DIR$/src/TestInit/TestInit.java" />
         <option value="$PROJECT_DIR$/src/JVM/TestVolatile.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_57_1_和为S的序列/Solution.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_58_反转字符串/Solution.java" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="957" />
-    <option name="y" value="-18" />
+    <option name="x" value="618" />
+    <option name="y" value="-22" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -315,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestVolatile">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -411,13 +416,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter_3_二叉树.T_5_递归动态规划.T_1_斐波那契数列相关问题.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T_58_反转句子.Solution" />
       <module name="DataStructure-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter_3_二叉树.T_5_递归动态规划.T_1_斐波那契数列相关问题.*" />
+          <option name="PATTERN" value="T_58_反转句子.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -547,19 +552,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestReference" />
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.TestInit" />
       <item itemvalue="Application.TestVolatile" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.TestVolatile" />
         <item itemvalue="Application.TestInit" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -584,21 +589,7 @@
       <workItem from="1565182080965" duration="3786000" />
       <workItem from="1565255531099" duration="37535000" />
       <workItem from="1566042248163" duration="4949000" />
-      <workItem from="1566115736161" duration="3148000" />
-    </task>
-    <task id="LOCAL-00090" summary="update README.md">
-      <created>1561475907167</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1561475907167</updated>
-    </task>
-    <task id="LOCAL-00091" summary="add 跳跃游戏">
-      <created>1561479686533</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1561479686533</updated>
+      <workItem from="1566115736161" duration="6141000" />
     </task>
     <task id="LOCAL-00092" summary="add 弓箭射气球">
       <created>1561540102802</created>
@@ -929,11 +920,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566015751561</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="add 和为S的序列">
+      <created>1566135456700</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1566135456701</updated>
+    </task>
+    <task id="LOCAL-00140" summary="add 反转句子">
+      <created>1566137657244</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1566137657244</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125680000" />
+    <option name="totallyTimeSpent" value="128673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -953,14 +958,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.14726508" visible="true" weight="0.19808307" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.14726508" visible="true" weight="0.19808307" />
       <window_info id="Captures" order="6" weight="0.25" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="UI Designer" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.2208413" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.2208413" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.32907662" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" weight="0.8087954" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.032397408" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28725702" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -1070,8 +1075,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 滑动窗口的最大值" />
-    <MESSAGE value="add 单调栈结构" />
     <MESSAGE value="add 打印2个链表的公共部分" />
     <MESSAGE value="add 删除单链表双链表的倒数第k个结点" />
     <MESSAGE value="add 反转单向链表" />
@@ -1095,7 +1098,9 @@
     <MESSAGE value="add 字符串转数字" />
     <MESSAGE value="add 判断是否为平衡二叉树" />
     <MESSAGE value="add 二叉树深度" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 二叉树深度" />
+    <MESSAGE value="add 和为S的序列" />
+    <MESSAGE value="add 反转句子" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 反转句子" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1152,23 +1157,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7592">
-          <caret line="326" column="29" selection-start-line="326" selection-start-column="29" selection-end-line="326" selection-end-column="29" />
-          <folding>
-            <element signature="e#21107#21108#0" expanded="true" />
-            <element signature="e#21134#21135#0" expanded="true" />
-            <element signature="e#23628#23629#0" expanded="true" />
-            <element signature="e#23682#23683#0" expanded="true" />
-            <element signature="e#24329#24330#0" expanded="true" />
-            <element signature="e#24394#24395#0" expanded="true" />
-            <element signature="e#66765#66766#0" expanded="true" />
-            <element signature="e#66822#66823#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2080">
@@ -1362,21 +1350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="656" selection-start-line="656" selection-end-line="656" />
-          <folding>
-            <element signature="e#4677#4678#0" expanded="true" />
-            <element signature="e#4714#4715#0" expanded="true" />
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1586,8 +1559,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_57_1_和为S的序列/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="440">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="2992" column="25" selection-start-line="2992" selection-start-column="25" selection-end-line="2992" selection-end-column="25" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
         </state>
       </provider>
     </entry>
