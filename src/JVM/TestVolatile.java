@@ -1,12 +1,14 @@
 package JVM;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class TestVolatile {
 
     private static final int THREAD_COUNT = 20;
-    private static volatile int num = 0;
-
+//    private static volatile int num = 0;
+    public static AtomicInteger num = new AtomicInteger(0);
     public static void increase() {
-        num++;
+        num.incrementAndGet();
     }
 
     public static void main(String[] args) {
@@ -15,14 +17,18 @@ public class TestVolatile {
             threads[i] = new Thread(new Runnable() {
                 @Override
                 public void run() {
-                    increase();
+                    for (int j = 0; j < 10000; j++) {
+                        increase();
+                    }
+
                 }
             });
             threads[i].start();
         }
-
-        while(Thread.activeCount() > 1) {
-            Thread.yield();
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
         }
 
         System.out.println(num);

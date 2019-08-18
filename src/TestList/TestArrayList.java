@@ -57,7 +57,6 @@ public class TestArrayList {
         long l = 012;
         new Thread1().start();
         new Thread2().start();
-
     }
 
 
