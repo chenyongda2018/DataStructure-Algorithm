@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="update readme.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,13 +60,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_58_2_左旋转字符串/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="182">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/逆波兰表达式求值_150/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -125,15 +133,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -184,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_10_给定中间一个结点并从链表中删除/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_11_复制含有随机指针结点的链表/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_12_将单链表的每K个结点之间逆序/Solution.java" />
         <option value="$PROJECT_DIR$/src/Interview/B.java" />
@@ -233,14 +231,15 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_57_1_和为S的序列/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_58_反转字符串/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java" />
-        <option value="$PROJECT_DIR$/剑指Offer/T_58_2_左旋转字符串/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/剑指Offer/T_58_2_左旋转字符串/Solution.java" />
+        <option value="$PROJECT_DIR$/LeetCode/逆波兰表达式求值_150/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1098" />
-    <option name="y" value="-19" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="75" />
+    <option name="y" value="155" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -263,36 +262,18 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_57_1_和为S的序列" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_61_扑克牌的顺子" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_62_圆圈中最后剩下的数字" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer" type="462c0819:PsiDirectoryNode" />
-              <item name="T_67_字符串转数字" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -608,14 +589,7 @@
       <workItem from="1565182080965" duration="3786000" />
       <workItem from="1565255531099" duration="37535000" />
       <workItem from="1566042248163" duration="4949000" />
-      <workItem from="1566115736161" duration="8210000" />
-    </task>
-    <task id="LOCAL-00095" summary="add 安排工作最大效益">
-      <created>1561554727031</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1561554727031</updated>
+      <workItem from="1566115736161" duration="9226000" />
     </task>
     <task id="LOCAL-00096" summary="add 安排工作最大效益">
       <created>1561554859181</created>
@@ -953,11 +927,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566141797912</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="update readme.md">
+      <created>1566141994702</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1566141994702</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130742000" />
+    <option name="totallyTimeSpent" value="131758000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -969,7 +950,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="75" y="155" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -983,7 +964,7 @@
       <window_info id="UI Designer" order="8" />
       <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.2208413" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.32907662" />
-      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" visible="true" weight="0.3298279" />
+      <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" visible="true" weight="0.3725702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28725702" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
@@ -1176,13 +1157,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/SelectSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1557,13 +1531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_58_2_左旋转字符串/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_67_字符串转数字/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1599,6 +1566,20 @@
             <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_58_2_左旋转字符串/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/逆波兰表达式求值_150/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
