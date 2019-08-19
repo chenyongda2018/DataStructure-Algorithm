@@ -1,4 +1,4 @@
-package Chapter_3_二叉树.T_5_递归动态规划.T_2_矩阵最小路径和;
+package Chapter_4_递归动态规划.T_2_矩阵最小路径和;
 
 public class Solution {
 

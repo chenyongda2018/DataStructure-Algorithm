@@ -10,8 +10,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="update readme.md">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 逆波兰表达式求值">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/T_1_斐波那契数列相关问题/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/T_1_斐波那契数列相关问题/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南/Chapter_4_递归动态规划/T_1_斐波那契数列相关问题/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/T_2_矩阵最小路径和/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/T_2_矩阵最小路径和/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南/Chapter_4_递归动态规划/T_2_矩阵最小路径和/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南/Chapter_4_递归动态规划/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,19 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="170" column="60" lean-forward="true" selection-start-line="170" selection-start-column="60" selection-end-line="170" selection-end-column="60" />
-              <folding>
-                <element signature="e#4725#4726#0" expanded="true" />
-                <element signature="e#4793#4794#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_57_1_和为S的序列/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/逆波兰表达式求值_150/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" selection-start-column="8" selection-end-column="16" />
+              <caret column="20" lean-forward="true" selection-start-column="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -79,10 +73,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="344">
-                <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+              <first_editor relative-caret-position="401">
+                <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -183,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_11_复制含有随机指针结点的链表/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_12_将单链表的每K个结点之间逆序/Solution.java" />
         <option value="$PROJECT_DIR$/src/Interview/B.java" />
         <option value="$PROJECT_DIR$/src/Interview/A.java" />
@@ -231,15 +233,16 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_57_1_和为S的序列/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_58_反转字符串/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/剑指Offer/T_58_2_左旋转字符串/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/逆波兰表达式求值_150/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="155" />
+    <option name="x" value="84" />
+    <option name="y" value="123" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -258,11 +261,6 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -589,14 +587,7 @@
       <workItem from="1565182080965" duration="3786000" />
       <workItem from="1565255531099" duration="37535000" />
       <workItem from="1566042248163" duration="4949000" />
-      <workItem from="1566115736161" duration="9226000" />
-    </task>
-    <task id="LOCAL-00096" summary="add 安排工作最大效益">
-      <created>1561554859181</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1561554859181</updated>
+      <workItem from="1566115736161" duration="10054000" />
     </task>
     <task id="LOCAL-00097" summary="add 安排工作最大效益&#10;add 两地调度&#10;add 最后一块石头的重量">
       <created>1561625032507</created>
@@ -934,11 +925,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566141994702</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="add 逆波兰表达式求值">
+      <created>1566183630956</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1566183630956</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131758000" />
+    <option name="totallyTimeSpent" value="132586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -950,7 +948,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="155" width="1936" height="1056" extended-state="0" />
+    <frame x="157" y="509" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -1075,7 +1073,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 删除单链表双链表的倒数第k个结点" />
     <MESSAGE value="add 反转单向链表" />
     <MESSAGE value="add 反转双向链表" />
     <MESSAGE value="add 反转链表中间的一部分" />
@@ -1100,7 +1097,8 @@
     <MESSAGE value="add 反转句子" />
     <MESSAGE value="add 左旋转字符串" />
     <MESSAGE value="update readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update readme.md" />
+    <MESSAGE value="add 逆波兰表达式求值" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 逆波兰表达式求值" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1157,13 +1155,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1235,7 +1226,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/readme.md">
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_4_递归动态规划/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1243,7 +1234,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/T_1_斐波那契数列相关问题/Solution.java">
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_4_递归动态规划/T_1_斐波那契数列相关问题/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
@@ -1254,7 +1245,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/T_2_矩阵最小路径和/Solution.java">
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_4_递归动态规划/T_2_矩阵最小路径和/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
@@ -1559,16 +1550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="344">
-            <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_58_2_左旋转字符串/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -1579,7 +1560,24 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/逆波兰表达式求值_150/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" selection-start-column="8" selection-end-column="16" />
+          <caret column="20" lean-forward="true" selection-start-column="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="401">
+            <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
