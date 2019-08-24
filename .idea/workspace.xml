@@ -10,9 +10,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 二叉搜索树的第k个结点">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 寻找二叉树中的最大搜索二叉子树">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,30 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/AbstractList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1222">
-              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1300">
-              <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
-              <folding>
-                <element signature="e#15878#15879#0" expanded="true" />
-                <element signature="e#15927#15928#0" expanded="true" />
-                <element signature="e#16099#16100#0" expanded="true" />
-                <element signature="e#16149#16150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/AbstractSequentialList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,17 +86,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_3_之字形印二叉树/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
+            <state relative-caret-position="754">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="624">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="786" column="22" lean-forward="true" selection-start-line="786" selection-start-column="22" selection-end-line="786" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -194,8 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_12_将单链表的每K个结点之间逆序/Solution2.java" />
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_13_合并两个有序链表/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_14_返回链表的中间结点/Slution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_15_将搜索二叉树转换成双向链表/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/TreeNode.java" />
@@ -245,14 +242,16 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_54_二叉搜索树的第k个结点/Solution.java" />
         <option value="$PROJECT_DIR$/src/TestReentrantLock/TestReentrantLock.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java" />
+        <option value="$PROJECT_DIR$/算法分析与设计/T_4_大数相乘/Solution.java" />
+        <option value="$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1791" />
-    <option name="y" value="88" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -263,8 +262,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,25 +274,7 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
-              <item name="T_7_寻找二叉树中的最大搜索二叉子树" type="462c0819:PsiDirectoryNode" />
+              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,7 +286,7 @@
     <property name="SearchEverywhereHistoryKey" value="loadClass&#9;PSI&#9;JAVA://java.lang.ClassLoader#loadClass" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566437198605" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566617380044" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Androidworkspace/BeatBox" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -338,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestReentrantLock">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -435,13 +416,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestProxy.Test" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T_4_位运算实现四则运算.Solution" />
       <module name="DataStructure-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestProxy.*" />
+          <option name="PATTERN" value="T_4_位运算实现四则运算.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -570,19 +551,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestReference" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.TestInit" />
       <item itemvalue="Application.TestVolatile" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.TestReentrantLock" />
+      <item itemvalue="Application.Solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.TestReentrantLock" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.TestVolatile" />
         <item itemvalue="Application.TestInit" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -608,21 +589,9 @@
       <workItem from="1565255531099" duration="37535000" />
       <workItem from="1566042248163" duration="4949000" />
       <workItem from="1566115736161" duration="19826000" />
-      <workItem from="1566437245632" duration="1260000" />
-    </task>
-    <task id="LOCAL-00099" summary="add 扑克牌的顺子">
-      <created>1561695697114</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1561695697114</updated>
-    </task>
-    <task id="LOCAL-00100" summary="add 买卖股票的最佳时机">
-      <created>1561800855418</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1561800855419</updated>
+      <workItem from="1566437245632" duration="2251000" />
+      <workItem from="1566570474934" duration="693000" />
+      <workItem from="1566617425953" duration="3434000" />
     </task>
     <task id="LOCAL-00101" summary="add 滑动窗口的最大值">
       <created>1561802396544</created>
@@ -953,11 +922,25 @@
       <option name="project" value="LOCAL" />
       <updated>1566215728215</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="add 寻找二叉树中的最大搜索二叉子树">
+      <created>1566442200546</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1566442200546</updated>
+    </task>
+    <task id="LOCAL-00149" summary="add 寻找二叉树中的最大搜索二叉子树">
+      <created>1566572892131</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1566572892132</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143618000" />
+    <option name="totallyTimeSpent" value="148736000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -977,11 +960,11 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.1469534" visible="true" weight="0.20660277" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.1469534" visible="true" weight="0.21086262" />
       <window_info id="Captures" order="6" weight="0.25" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="UI Designer" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.19980879" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.17686425" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.32907662" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" weight="0.7451404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28725702" />
@@ -1094,7 +1077,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 反转链表中间的一部分" />
     <MESSAGE value="add 判断链表是不是回文结构" />
     <MESSAGE value="add 复制含有随机指针的链表" />
     <MESSAGE value="add 单链表的每K个结点进行逆序" />
@@ -1119,7 +1101,8 @@
     <MESSAGE value="add 逆波兰表达式求值" />
     <MESSAGE value="add 二叉树的下一个结点" />
     <MESSAGE value="add 二叉搜索树的第k个结点" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 二叉搜索树的第k个结点" />
+    <MESSAGE value="add 寻找二叉树中的最大搜索二叉子树" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 寻找二叉树中的最大搜索二叉子树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1176,23 +1159,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T2_实现SingleTon模式/LazySingleTon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T2_实现SingleTon模式/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="156">
-            <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -1591,6 +1557,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_3_之字形印二叉树/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6760">
@@ -1605,17 +1578,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_3_之字形印二叉树/Solution.java">
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="624">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="264">
+          <caret line="786" column="22" lean-forward="true" selection-start-line="786" selection-start-column="22" selection-end-line="786" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
