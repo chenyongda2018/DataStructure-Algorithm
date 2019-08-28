@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 位运算实现四则运算">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,42 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4316">
-              <caret line="208" column="23" selection-start-line="208" selection-start-column="23" selection-end-line="208" selection-end-column="23" />
-              <folding>
-                <element signature="e#6849#6850#0" expanded="true" />
-                <element signature="e#6907#6908#0" expanded="true" />
-                <element signature="e#8176#8177#0" expanded="true" />
-                <element signature="e#8216#8217#0" expanded="true" />
-                <element signature="e#8451#8452#0" expanded="true" />
-                <element signature="e#8515#8516#0" expanded="true" />
-                <element signature="e#9117#9118#0" expanded="true" />
-                <element signature="e#9144#9145#0" expanded="true" />
-                <element signature="e#15850#15851#0" expanded="true" />
-                <element signature="e#15881#15882#0" expanded="true" />
-                <element signature="e#22310#22311#0" expanded="true" />
-                <element signature="e#22354#22355#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29692">
-              <caret line="1197" column="18" selection-start-line="1197" selection-start-column="18" selection-end-line="1197" selection-end-column="18" />
-              <folding>
-                <element signature="e#41392#41393#0" expanded="true" />
-                <element signature="e#41449#41450#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_3_之字形印二叉树/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
+            <state relative-caret-position="156">
               <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <element signature="e#297#298#0" expanded="true" />
@@ -102,11 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="858">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_15_将搜索二叉树转换成双向链表/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -188,8 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_14_返回链表的中间结点/Slution.java" />
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_15_将搜索二叉树转换成双向链表/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/TreeNode.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/TreeNode.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_3_后序遍历/Solution.java" />
@@ -239,6 +220,8 @@
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/T_4_大数相乘/Solution.java" />
         <option value="$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java" />
       </list>
     </option>
   </component>
@@ -267,35 +250,13 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_2_链表" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_2_链表" type="462c0819:PsiDirectoryNode" />
-              <item name="T_1_打印2个链表的公共部分" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_2_链表" type="462c0819:PsiDirectoryNode" />
-              <item name="T_4_反转单向和双向链表" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_2_链表" type="462c0819:PsiDirectoryNode" />
-              <item name="T_4_反转单向和双向链表" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure_Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,7 +270,7 @@
     <property name="SearchEverywhereHistoryKey" value="loadClass&#9;PSI&#9;JAVA://java.lang.ClassLoader#loadClass" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566917718915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566987192793" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Androidworkspace/BeatBox" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -342,9 +303,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestReference">
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -420,6 +382,20 @@
     </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_Sort.BinarySearch" />
+      <module name="DataStructure-Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure_Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -515,8 +491,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -578,9 +553,11 @@
       <item itemvalue="Application.TestVolatile" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.TestReentrantLock" />
+      <item itemvalue="Application.BinarySearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.TestReentrantLock" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.TestVolatile" />
@@ -613,14 +590,8 @@
       <workItem from="1566437245632" duration="2251000" />
       <workItem from="1566570474934" duration="693000" />
       <workItem from="1566617425953" duration="4901000" />
-      <workItem from="1566917758324" duration="331000" />
-    </task>
-    <task id="LOCAL-00102" summary="add 设计一个又getMin功能的栈">
-      <created>1562771482171</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1562771482172</updated>
+      <workItem from="1566917758324" duration="1130000" />
+      <workItem from="1566987233104" duration="1813000" />
     </task>
     <task id="LOCAL-00103" summary="add 由2个栈组成的队列">
       <created>1562806288769</created>
@@ -958,11 +929,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566641105771</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="add 位运算实现四则运算">
+      <created>1566918226186</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1566918226187</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150534000" />
+    <option name="totallyTimeSpent" value="153146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -982,11 +960,11 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.1469534" visible="true" weight="0.21299255" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.1469534" visible="true" weight="0.21512248" />
       <window_info id="Captures" order="6" weight="0.25" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="UI Designer" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" weight="0.17686425" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.17602591" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.32907662" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" weight="0.7451404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28725702" />
@@ -1181,20 +1159,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/修饰符/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/修饰符/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_67_字符串转数字.java" />
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_4_打印二叉树的边界结点/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1575,6 +1539,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_1_打印2个链表的公共部分/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18928">
@@ -1596,28 +1585,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java">
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_15_将搜索二叉树转换成双向链表/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_1_打印2个链表的公共部分/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="404">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
         </state>
       </provider>
     </entry>
