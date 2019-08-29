@@ -10,9 +10,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 位运算实现四则运算">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add binary search">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,15 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer/T_32_3_之字形印二叉树/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="300">
+              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -214,7 +214,6 @@
         <option value="$PROJECT_DIR$/剑指Offer/T_58_2_左旋转字符串/Solution.java" />
         <option value="$PROJECT_DIR$/LeetCode/逆波兰表达式求值_150/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_54_二叉搜索树的第k个结点/Solution.java" />
         <option value="$PROJECT_DIR$/src/TestReentrantLock/TestReentrantLock.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_7_寻找二叉树中的最大搜索二叉子树/Solution.java" />
@@ -222,6 +221,7 @@
         <option value="$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java" />
       </list>
     </option>
   </component>
@@ -255,8 +255,28 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure_Sort" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="T_9_返回指定结点的后继节点" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="T_9_返回指定结点的后继节点" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -591,14 +611,7 @@
       <workItem from="1566570474934" duration="693000" />
       <workItem from="1566617425953" duration="4901000" />
       <workItem from="1566917758324" duration="1130000" />
-      <workItem from="1566987233104" duration="1813000" />
-    </task>
-    <task id="LOCAL-00103" summary="add 由2个栈组成的队列">
-      <created>1562806288769</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1562806288770</updated>
+      <workItem from="1566987233104" duration="3758000" />
     </task>
     <task id="LOCAL-00104" summary="add 仅用递归和栈把一个栈逆序">
       <created>1562891976157</created>
@@ -936,11 +949,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566918226187</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="add binary search">
+      <created>1567007598626</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1567007598627</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153146000" />
+    <option name="totallyTimeSpent" value="155091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -960,11 +980,11 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.1469534" visible="true" weight="0.21512248" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.1469534" visible="true" weight="0.21512248" />
       <window_info id="Captures" order="6" weight="0.25" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="UI Designer" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.17602591" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.17602591" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.32907662" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" weight="0.7451404" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28725702" />
@@ -1077,7 +1097,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 复制含有随机指针的链表" />
     <MESSAGE value="add 单链表的每K个结点进行逆序" />
     <MESSAGE value="add 合并2个有序链表" />
     <MESSAGE value="add 返回链表的中间结点" />
@@ -1102,7 +1121,8 @@
     <MESSAGE value="add 二叉搜索树的第k个结点" />
     <MESSAGE value="add 寻找二叉树中的最大搜索二叉子树" />
     <MESSAGE value="add 位运算实现四则运算" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 位运算实现四则运算" />
+    <MESSAGE value="add binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="add binary search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1408,17 +1428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_3_后序遍历/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -1594,8 +1603,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="300">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
         </state>
       </provider>
     </entry>
