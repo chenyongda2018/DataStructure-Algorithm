@@ -50,8 +50,6 @@ public class MergeSort {
         }
 
         int numElement = rightEnd - leftPos + 1;
-
-
         for (int i = 0; i <= rightEnd; i++) {
             a[i] = temp[i];
         }

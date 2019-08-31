@@ -10,8 +10,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add binary search">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add avl tree">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,55 +29,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/算法分析与设计/T_4_位运算实现四则运算/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_1_打印2个链表的公共部分/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_4_反转单向和双向链表/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_2_链表/T_15_将搜索二叉树转换成双向链表/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
@@ -84,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_10_AVLTree/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="148" column="55" selection-start-line="148" selection-start-column="55" selection-end-line="148" selection-end-column="55" />
+            <state relative-caret-position="312">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="e#3381#3382#0" expanded="true" />
               </folding>
@@ -97,19 +50,77 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/SelectSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18928">
-              <caret line="786" column="22" selection-start-line="786" selection-start-column="22" selection-end-line="786" selection-end-column="22" />
+            <state relative-caret-position="156">
+              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6760">
-              <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
+            <state relative-caret-position="-234">
+              <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/ThreeQuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/算法分析与设计/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+              <folding>
+                <element signature="e#4677#4678#0" expanded="true" />
+                <element signature="e#4714#4715#0" expanded="true" />
+                <element signature="e#22786#22787#0" expanded="true" />
+                <element signature="e#22821#22822#0" expanded="true" />
+                <element signature="e#94598#94599#0" expanded="true" />
+                <element signature="e#94636#94637#0" expanded="true" />
+                <element signature="e#117893#117894#0" expanded="true" />
+                <element signature="e#117955#117956#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="948">
+              <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -173,9 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/TreeNode.java" />
-        <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_3_后序遍历/Solution.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_Sort/SelectSort.java" />
         <option value="$PROJECT_DIR$/src/JVM/TestReference.java" />
         <option value="$PROJECT_DIR$/src/JVM/file.txt" />
         <option value="$PROJECT_DIR$/src/JVM/TestSplit.java" />
@@ -188,7 +196,6 @@
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/TestList/TestReference.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_10_1_斐波那契数列/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/T_1_斐波那契数列相关问题/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_5_递归动态规划/T_2_矩阵最小路径和/Solution.java" />
@@ -224,14 +231,17 @@
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/BinarySearch.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_9_返回指定结点的后继节点/Solution.java" />
         <option value="$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_10_AVLTree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure_Sort/ThreeQuickSort.java" />
+        <option value="$PROJECT_DIR$/算法分析与设计/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -253,18 +263,7 @@
             <path>
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter_3_二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="算法分析与设计" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,6 +282,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -310,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -406,16 +406,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T_58_反转句子.Solution" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_Sort.BubbleSort" />
       <module name="DataStructure-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="T_58_反转句子.*" />
+          <option name="PATTERN" value="DataStructure_Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_Sort.QuickSort" />
+      <module name="DataStructure-Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure_Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="DataStructure-Algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -427,34 +449,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="T_4_位运算实现四则运算.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestInit.TestInit" />
-      <module name="DataStructure-Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestInit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestReentrantLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestReentrantLock.TestReentrantLock" />
-      <module name="DataStructure-Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestReentrantLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -476,13 +470,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JVM.TestVolatile" />
+    <configuration name="ThreeQuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure_Sort.ThreeQuickSort" />
       <module name="DataStructure-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JVM.*" />
+          <option name="PATTERN" value="DataStructure_Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -556,19 +550,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.TestReference" />
-      <item itemvalue="Application.TestInit" />
-      <item itemvalue="Application.TestVolatile" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.TestReentrantLock" />
       <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.ThreeQuickSort" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.TestReentrantLock" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.TestVolatile" />
-        <item itemvalue="Application.TestInit" />
+        <item itemvalue="Application.ThreeQuickSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -599,14 +593,7 @@
       <workItem from="1566617425953" duration="4901000" />
       <workItem from="1566917758324" duration="1130000" />
       <workItem from="1566987233104" duration="4068000" />
-      <workItem from="1567130809937" duration="4047000" />
-    </task>
-    <task id="LOCAL-00105" summary="add 猫狗队列">
-      <created>1562894254582</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1562894254582</updated>
+      <workItem from="1567130809937" duration="21155000" />
     </task>
     <task id="LOCAL-00106" summary="add 用一个栈实现对另一个栈进行排序">
       <created>1562924775068</created>
@@ -944,11 +931,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567091538728</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="add avl tree">
+      <created>1567153920038</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1567153920039</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159448000" />
+    <option name="totallyTimeSpent" value="176556000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -960,26 +954,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
-      <window_info id="Structure" order="1" sideWeight="0.8530466" side_tool="true" weight="0.20447284" />
+      <window_info id="Structure" order="1" sideWeight="0.8542117" side_tool="true" weight="0.2172524" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.1469534" visible="true" weight="0.2172524" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.14578834" weight="0.2172524" />
       <window_info id="Captures" order="6" weight="0.25" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="UI Designer" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.17602591" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.49946696" visible="true" weight="0.26826608" />
       <window_info anchor="bottom" id="TODO" order="1" weight="0.32907662" />
       <window_info anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" weight="0.7451404" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28725702" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37186477" />
       <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49946696" weight="0.25345168" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.19546436" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.19520174" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.32937366" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1085,7 +1079,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 单链表的每K个结点进行逆序" />
     <MESSAGE value="add 合并2个有序链表" />
     <MESSAGE value="add 返回链表的中间结点" />
     <MESSAGE value="add 搜索二叉树与双向链表的转换" />
@@ -1110,7 +1103,8 @@
     <MESSAGE value="add 寻找二叉树中的最大搜索二叉子树" />
     <MESSAGE value="add 位运算实现四则运算" />
     <MESSAGE value="add binary search" />
-    <option name="LAST_COMMIT_MESSAGE" value="add binary search" />
+    <MESSAGE value="add avl tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add avl tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1163,63 +1157,22 @@
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructure_Sort/ThreeQuickSort.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/算法分析与设计/Solution.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_4_打印二叉树的边界结点/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166504">
-          <caret line="6510" selection-start-line="6510" selection-end-line="6510" />
-          <folding>
-            <element signature="e#233965#233966#0" expanded="true" />
-            <element signature="e#236253#236254#0" expanded="true" />
-            <element signature="e#236327#236328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_1_先序遍历/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_2_中序遍历/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_6_判断二叉树是否为平衡二叉树/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_8_求二叉树的深度/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1339,23 +1292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="2992" column="25" selection-start-line="2992" selection-start-column="25" selection-end-line="2992" selection-end-column="25" />
-          <folding>
-            <element signature="e#4677#4678#0" expanded="true" />
-            <element signature="e#4714#4715#0" expanded="true" />
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-            <element signature="e#117893#117894#0" expanded="true" />
-            <element signature="e#117955#117956#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -1429,13 +1365,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1604,10 +1533,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/程序员代码面试指南/Chapter_3_二叉树/T_10_AVLTree/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="148" column="55" selection-start-line="148" selection-start-column="55" selection-end-line="148" selection-end-column="55" />
+        <state relative-caret-position="312">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
             <element signature="e#3381#3382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1437" column="28" selection-start-line="1437" selection-start-column="28" selection-end-line="1437" selection-end-column="28" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="948">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/ThreeQuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法分析与设计/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

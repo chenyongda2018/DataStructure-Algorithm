@@ -10,7 +10,8 @@ public class QuickSort {
 
     public static void main(String[] args) {
 //        int[] data = new int[]{9,8,7,6,5,4,3,2,1};
-        int[] data = new int[]{1,2,3,4,5,6,7,8,9};
+//        int[] data = new int[]{6, 7, 4, 6, 3, 2, 1, 8, 0, 2};
+        int[] data = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 1,9,9};
         quickSort(data);
         System.out.println(Arrays.toString(data));
     }
@@ -30,17 +31,17 @@ public class QuickSort {
 
     public static int partition(int[] arr, int start, int end) {
         int i = start;
-        int j = end;
+        int j = end + 1;
         int num = arr[start];
-
         while (true) {
-            while (arr[++i] <num) if (i == end) break;
-            while (arr[j--] >num) if (j == start) break;
+            while (arr[++i] < num) if (i == end) break;
+            while (arr[--j] > num) if (j == start) break;
             if (i >= j) break;
             exch(arr, i, j);
         }
-        exch(arr, i, start);
-        return i;
+        exch(arr, start, j);
+
+        return j;
     }
 
     public static void exch(int[] arr, int a, int b) {
