@@ -12,6 +12,13 @@ public class TestVolatile {
 
 
     public static void main(String[] args) {
+        testSee();
+    }
+
+    /**
+     * 测试volatile的可见性
+     */
+    private static void testSee() {
         TestVolatile test = new TestVolatile();
         new Thread(() -> {
             try {
