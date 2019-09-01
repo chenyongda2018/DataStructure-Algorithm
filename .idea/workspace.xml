@@ -10,10 +10,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 三向切分快速排序">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add 堆排序">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JVM/TestVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JVM/TestVolatile.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,34 +28,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JVM/TestRuntimeDataSpace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="78">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
                 <element signature="e#93#94#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="523">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JVM/TestVolatile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,7 +210,6 @@
         <option value="$PROJECT_DIR$/src/TestProxy/Test.java" />
         <option value="$PROJECT_DIR$/src/TestProxy/DynamicProxyHandler.java" />
         <option value="$PROJECT_DIR$/src/TestInit/TestInit.java" />
-        <option value="$PROJECT_DIR$/src/JVM/TestVolatile.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_57_1_和为S的序列/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_58_反转字符串/Solution.java" />
         <option value="$PROJECT_DIR$/剑指Offer/T_58_反转句子/Solution.java" />
@@ -231,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/JVM/TestRuntimeDataSpace.java" />
         <option value="$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/JVM/TestVolatile.java" />
       </list>
     </option>
   </component>
@@ -248,7 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -266,12 +266,6 @@
               <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure_Sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JVM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -283,13 +277,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="loadClass&#9;PSI&#9;JAVA://java.lang.ClassLoader#loadClass" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567267070810" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567312641597" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Androidworkspace/BeatBox" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -323,10 +318,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
+  <component name="RunManager" selected="Application.TestVolatile">
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -484,13 +478,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeQuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure_Sort.ThreeQuickSort" />
+    <configuration name="TestVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JVM.TestVolatile" />
       <module name="DataStructure-Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure_Sort.*" />
+          <option name="PATTERN" value="JVM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -505,7 +499,8 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -564,18 +559,18 @@
     <list>
       <item itemvalue="Application.TestReference" />
       <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.ThreeQuickSort" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.TestRuntimeDataSpace" />
       <item itemvalue="Application.HeapSort" />
+      <item itemvalue="Application.TestVolatile" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestVolatile" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.TestRuntimeDataSpace" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.ThreeQuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -607,14 +602,8 @@
       <workItem from="1566917758324" duration="1130000" />
       <workItem from="1566987233104" duration="4068000" />
       <workItem from="1567130809937" duration="27386000" />
-      <workItem from="1567267082660" duration="2607000" />
-    </task>
-    <task id="LOCAL-00108" summary="add 单调栈结构">
-      <created>1562980914056</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1562980914056</updated>
+      <workItem from="1567267082660" duration="2890000" />
+      <workItem from="1567312680658" duration="605000" />
     </task>
     <task id="LOCAL-00109" summary="add 单调栈结构">
       <created>1562981618134</created>
@@ -952,11 +941,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567250022774</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="add 堆排序">
+      <created>1567273460460</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1567273460461</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185394000" />
+    <option name="totallyTimeSpent" value="186282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -976,7 +972,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.14578834" weight="0.44978166" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.14578834" visible="true" weight="0.12227074" />
       <window_info id="Captures" order="6" weight="0.25" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="UI Designer" order="8" />
@@ -995,7 +991,6 @@
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="right" id="jclasslib" weight="0.51331204" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Flutter Inspector" order="2" />
@@ -1009,6 +1004,7 @@
       <window_info anchor="right" id="PlantUML" order="10" />
       <window_info anchor="right" id="Palette" order="11" />
       <window_info anchor="right" id="Database" order="12" />
+      <window_info anchor="right" id="jclasslib" order="13" weight="0.51331204" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -1094,7 +1090,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 返回链表的中间结点" />
     <MESSAGE value="add 搜索二叉树与双向链表的转换" />
     <MESSAGE value="add 二叉树的前序遍历" />
     <MESSAGE value="add 二叉树的中序遍历" />
@@ -1119,7 +1114,8 @@
     <MESSAGE value="add binary search" />
     <MESSAGE value="add avl tree" />
     <MESSAGE value="add 三向切分快速排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 三向切分快速排序" />
+    <MESSAGE value="add 堆排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 堆排序" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1245,13 +1241,6 @@
             <element signature="e#86#87#0" expanded="true" />
             <element signature="e#127#128#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JVM/TestVolatile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1547,6 +1536,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JVM/TestRuntimeDataSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/ArrUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/ThreeQuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
@@ -1595,37 +1609,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JVM/TestRuntimeDataSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#93#94#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/ArrUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataStructure_Sort/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="523">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JVM/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

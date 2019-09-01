@@ -4,33 +4,28 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class TestVolatile {
 
-    private static final int THREAD_COUNT = 20;
-//    private static volatile int num = 0;
-    public static AtomicInteger num = new AtomicInteger(0);
-    public static void increase() {
-        num.incrementAndGet();
+    volatile int number = 0;//保证可见性，将值写回主内存,通知其他线程此值已经改变。
+
+    public void addNumberto10() {
+        this.number = 10;
     }
 
+
     public static void main(String[] args) {
-        Thread[] threads = new Thread[THREAD_COUNT];
-        for (int i = 0; i < threads.length; i++) {
-            threads[i] = new Thread(new Runnable() {
-                @Override
-                public void run() {
-                    for (int j = 0; j < 10000; j++) {
-                        increase();
-                    }
+        TestVolatile test = new TestVolatile();
+        new Thread(() -> {
+            try {
+                Thread.sleep(3000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            test.addNumberto10();
+            System.out.println(Thread.currentThread().getName() + " number is " + test.number);
+        } ,"thread - 2 ").start();
 
-                }
-            });
-            threads[i].start();
-        }
-        try {
-            Thread.sleep(10000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        while(test.number == 0) {
 
-        System.out.println(num);
+        }
+        System.out.println(" main thread number is " + test.number);
     }
 }
