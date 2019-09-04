@@ -1,12 +1,24 @@
 package TestThreadPool;
 
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+
 public class ProduceConsumer {
     Object lock = new Object();
 
+    Lock lock1 = new ReentrantLock();
+    Condition c1 = lock1.newCondition();
+
     int num = 0;
+
+
 
     //加1
     void increament() {
+        System.out.println();
         synchronized (lock) {
             //用while,不用if 是为了防止虚假唤醒
             while(num != 0) {

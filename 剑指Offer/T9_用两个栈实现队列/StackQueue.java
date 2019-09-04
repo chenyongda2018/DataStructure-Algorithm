@@ -32,11 +32,13 @@ public class StackQueue {
 
     public static void main(String[] args) {
         StackQueue queue = new StackQueue();
-        for (int i = 1; i < 4; i++) {
+        for (int i = 1; i <= 4; i++) {
             queue.push(i);
         }
-        int num = queue.pop();
-        System.out.println(num);
+        for (int i = 0; i < 4; i++) {
+            int num = queue.pop();
+            System.out.println(num);
+        }
     }
 
 
