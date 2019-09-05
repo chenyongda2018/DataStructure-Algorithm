@@ -94,13 +94,22 @@ public class LRUCache {
 
 
     public static void main(String[] args) {
-        LRUCache lruCache = new LRUCache(5);
-        lruCache.put(1,1);
-        lruCache.put(2,2);
-        lruCache.put(3,3);
-        lruCache.put(4,4);
-        lruCache.put(5,5);
-        lruCache.put(6,6);
+//        LRUCache lruCache = new LRUCache(5);
+//        lruCache.put(1,1);
+//        lruCache.put(2,2);
+//        lruCache.put(3,3);
+//        lruCache.put(4,4);
+//        lruCache.put(5,5);
+//        lruCache.put(6,6);
+        String s = new String("1");
+        String s2 = "1";
+        s.intern();
+        System.out.println(s == s2);
+
+        String s3 = new String("1") + new String("1");
+        String s4 = "11";
+        s3.intern();
+        System.out.println(s3 == s4);
     }
 
 }
