@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Stanford" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/算法分析与设计" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/程序员代码面试指南" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/笔试题" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
