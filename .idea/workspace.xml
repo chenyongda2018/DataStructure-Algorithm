@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add  发糖果,最近座位">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add  leetcode 1356">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -296,13 +314,6 @@
       <workItem from="1567389655904" duration="48840000" />
       <workItem from="1567767353874" duration="10637000" />
       <workItem from="1568026440189" duration="5671000" />
-    </task>
-    <task id="LOCAL-00119" summary="add 复制含有随机指针的链表">
-      <created>1564447498593</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1564447498594</updated>
     </task>
     <task id="LOCAL-00120" summary="add 单链表的每K个结点进行逆序">
       <created>1564451581494</created>
@@ -640,7 +651,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567782585793</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="add  leetcode 1356">
+      <created>1604669562295</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1604669562295</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -685,7 +703,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 字符串转数字" />
     <MESSAGE value="add 判断是否为平衡二叉树" />
     <MESSAGE value="add 二叉树深度" />
     <MESSAGE value="add 和为S的序列" />
@@ -710,33 +727,34 @@
     <MESSAGE value="add  test code" />
     <MESSAGE value="add  lru算法" />
     <MESSAGE value="add  发糖果,最近座位" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  发糖果,最近座位" />
+    <MESSAGE value="add  leetcode 1356" />
+    <option name="LAST_COMMIT_MESSAGE" value="add  leetcode 1356" />
   </component>
   <component name="WindowStateProjectService">
     <state x="376" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604284667477">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="376" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1604284667477" />
-    <state width="1202" height="413" key="GridCell.Tab.0.bottom" timestamp="1604668940094">
+    <state width="2454" height="413" key="GridCell.Tab.0.bottom" timestamp="1604676014084">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state width="745" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1604370825741" />
-    <state width="1202" height="413" key="GridCell.Tab.0.bottom/62.0.2498.1440@62.0.2498.1440" timestamp="1604668940094" />
-    <state width="1202" height="413" key="GridCell.Tab.0.center" timestamp="1604668940094">
+    <state width="2454" height="413" key="GridCell.Tab.0.bottom/62.0.2498.1440@62.0.2498.1440" timestamp="1604676014084" />
+    <state width="2454" height="413" key="GridCell.Tab.0.center" timestamp="1604676014084">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state width="745" height="257" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1604370825741" />
-    <state width="1202" height="413" key="GridCell.Tab.0.center/62.0.2498.1440@62.0.2498.1440" timestamp="1604668940094" />
-    <state width="1202" height="413" key="GridCell.Tab.0.left" timestamp="1604668940094">
+    <state width="2454" height="413" key="GridCell.Tab.0.center/62.0.2498.1440@62.0.2498.1440" timestamp="1604676014084" />
+    <state width="2454" height="413" key="GridCell.Tab.0.left" timestamp="1604676014083">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state width="745" height="257" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1604370825740" />
-    <state width="1202" height="413" key="GridCell.Tab.0.left/62.0.2498.1440@62.0.2498.1440" timestamp="1604668940094" />
-    <state width="1202" height="413" key="GridCell.Tab.0.right" timestamp="1604668940094">
+    <state width="2454" height="413" key="GridCell.Tab.0.left/62.0.2498.1440@62.0.2498.1440" timestamp="1604676014083" />
+    <state width="2454" height="413" key="GridCell.Tab.0.right" timestamp="1604676014084">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state width="745" height="257" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1604370825741" />
-    <state width="1202" height="413" key="GridCell.Tab.0.right/62.0.2498.1440@62.0.2498.1440" timestamp="1604668940094" />
+    <state width="2454" height="413" key="GridCell.Tab.0.right/62.0.2498.1440@62.0.2498.1440" timestamp="1604676014084" />
     <state x="-1511" y="170" width="998" height="708" key="SettingsEditor" timestamp="1604368913457">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
