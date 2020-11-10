@@ -24,7 +24,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add  leetcode 1356">
+    <list default="true" id="222d0428-b36d-4ceb-b27f-4106451b0373" name="Default" comment="add  leetcode 973">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +105,8 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,8 +206,7 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -314,13 +315,6 @@
       <workItem from="1567389655904" duration="48840000" />
       <workItem from="1567767353874" duration="10637000" />
       <workItem from="1568026440189" duration="5671000" />
-    </task>
-    <task id="LOCAL-00120" summary="add 单链表的每K个结点进行逆序">
-      <created>1564451581494</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1564451581494</updated>
     </task>
     <task id="LOCAL-00121" summary="add 单链表的每K个结点进行逆序">
       <created>1564453123720</created>
@@ -658,7 +652,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604669562295</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="add  leetcode 973">
+      <created>1604926964092</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1604926964092</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -703,7 +704,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add 判断是否为平衡二叉树" />
     <MESSAGE value="add 二叉树深度" />
     <MESSAGE value="add 和为S的序列" />
     <MESSAGE value="add 反转句子" />
@@ -728,7 +728,8 @@
     <MESSAGE value="add  lru算法" />
     <MESSAGE value="add  发糖果,最近座位" />
     <MESSAGE value="add  leetcode 1356" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  leetcode 1356" />
+    <MESSAGE value="add  leetcode 973" />
+    <option name="LAST_COMMIT_MESSAGE" value="add  leetcode 973" />
   </component>
   <component name="WindowStateProjectService">
     <state x="376" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604284667477">
@@ -759,6 +760,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1511" y="170" width="998" height="708" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604368913457" />
+    <state x="903" y="452" key="Vcs.Push.Dialog.v2" timestamp="1604926965721">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="903" y="452" key="Vcs.Push.Dialog.v2/62.0.2498.1440@62.0.2498.1440" timestamp="1604926965721" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
